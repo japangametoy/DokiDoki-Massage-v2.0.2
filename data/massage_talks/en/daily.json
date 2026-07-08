@@ -1,0 +1,1019 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "Hot Days Continue",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It was hot again today. Must have been tough getting here, right?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Yes... Even with a parasol, I started sweating just from walking...",
+          "voiceFile": "talk_wether_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I've got the AC on, so take your time and relax."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleeping_02",
+          "text": "...Thank you. It's so cool and comfortable...",
+          "voiceFile": "talk_wether_002"
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "Sleeping Habits",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "When you sleep, do you prefer lying on your side or on your back?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Um... I often end up falling asleep on my side while using my phone...",
+          "voiceFile": "talk_sleep_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Using your phone on your side is bad for your neck."
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Try lying on your back and putting a pillow under your knees - it helps your lower back. The trick is to stop using your phone 30 minutes before bed and dim the lights."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "A pillow under my knees... I didn't know that. Thank you, I'll try it.",
+          "voiceFile": "talk_sleep_002"
+        }
+      ]
+    },
+    "talk_hobby": {
+      "topicName": "Hobbies",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "What do you do on your days off, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... I often practice piano or read books.",
+          "voiceFile": "talk_hobby_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, you play piano? What kind of pieces are you practicing?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "I'm working on Chopin's Nocturne now... But it's difficult, and I can't play it well yet...",
+          "voiceFile": "talk_hobby_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh... Nocturne, huh. That's impressive. (I'll just go along with it)"
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "First Time at a Clinic",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Is this your first time at a massage clinic? Are you nervous?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Y-yes... It's my first time... I'm a bit nervous...",
+          "voiceFile": "talk_first_time_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Don't worry, just relax. I won't do anything that hurts."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Okay, thank you...",
+          "voiceFile": "talk_first_time_002"
+        }
+      ]
+    },
+    "talk_tired_parts": {
+      "topicName": "Tired Areas",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are there any areas where you've been feeling particularly tired lately?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "My shoulders and lower back... They feel heavy.",
+          "voiceFile": "talk_tired_parts_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Maybe from staying in the same position while studying?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "That might be it... I spend a lot of time at my desk...",
+          "voiceFile": "talk_tired_parts_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Try standing up and doing light stretches once an hour. I'll make sure to loosen you up properly today."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Thank you... This feels so good...",
+          "voiceFile": "talk_tired_parts_003"
+        }
+      ]
+    },
+    "talk_school": {
+      "topicName": "About School",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Which school do you go to, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... Omanko Academy.",
+          "voiceFile": "talk_school_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Eh? That 'Omanko Academy'!?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Ah, yes... That's right.",
+          "voiceFile": "talk_school_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That's a super prestigious school. That's amazing."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "N-no... It's nothing special...",
+          "voiceFile": "talk_school_003"
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "Favorite Foods",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you have any favorite foods, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... I like Japanese sweets. Matcha, dango...",
+          "voiceFile": "talk_food_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, that's a mature taste. Unusual for someone your age."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "My grandmother often buys them for me... I've loved them since I was little.",
+          "voiceFile": "talk_food_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That's very fitting for you, Nana."
+        }
+      ]
+    },
+    "talk_piano_detail": {
+      "topicName": "More About Piano",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "By the way, you mentioned you play piano before, right?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Ah, you remembered...",
+          "voiceFile": "talk_piano_detail_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "How old were you when you started?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "I was 3. I didn't like it at first... But now I enjoy playing.",
+          "voiceFile": "talk_piano_detail_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Have you ever competed in competitions?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "A few times when I was little... But I got nervous and didn't do well.",
+          "voiceFile": "talk_piano_detail_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "But it's amazing that you've kept at it. I'd love to hear you play sometime."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Eh... You'd listen to me? I'd be so happy...",
+          "voiceFile": "talk_piano_detail_004"
+        }
+      ]
+    },
+    "talk_dream": {
+      "topicName": "Future Dreams",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you have any dreams for the future, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... I haven't decided for sure yet...",
+          "voiceFile": "talk_dream_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are there any fields you're interested in?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Something related to music... or education, I think.",
+          "voiceFile": "talk_dream_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You can play piano, so that seems like a good fit."
+        },
+        {
+          "character": "player",
+          "expression": "normal_02",
+          "text": "You'd make a good teacher too."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "R-really...? Thank you.",
+          "voiceFile": "talk_dream_003"
+        }
+      ]
+    },
+    "talk_music_taste": {
+      "topicName": "Music Preferences",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Besides piano, what kind of music do you usually listen to?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Mostly classical... But recently I've been listening to other things too.",
+          "voiceFile": "talk_music_taste_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh? Like what?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Um... Anime songs...",
+          "voiceFile": "talk_music_taste_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That's surprising. Do you watch a lot of anime?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...I don't watch that much... But there's an anime I really like...",
+          "voiceFile": "talk_music_taste_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(She seems embarrassed to talk about it)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...I see. I'd love to hear more about it sometime."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Y-yes...",
+          "voiceFile": "talk_music_taste_004"
+        }
+      ]
+    },
+    "talk_childhood": {
+      "topicName": "Childhood Memories",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "What were you like as a child?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "I was really shy... Always reading books.",
+          "voiceFile": "talk_childfood_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are you still a bit shy now?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Yes... But I don't feel as nervous here...",
+          "voiceFile": "talk_childfood_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That makes me happy. So you're feeling relaxed with me."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Yes... I feel at ease...",
+          "voiceFile": "talk_childfood_003"
+        }
+      ]
+    },
+    "talk_trust": {
+      "topicName": "About Trust",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You've been really relaxed lately, Nana."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Really...? I'm definitely not as nervous as when I first came.",
+          "voiceFile": "talk_trust_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Does that mean you trust me?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Yes... I trust you, sensei.",
+          "voiceFile": "talk_trust_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Thank you. I'll do my best to keep earning that trust."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Thank you too... for everything.",
+          "voiceFile": "talk_trust_003"
+        }
+      ]
+    },
+    "talk_anime_secret": {
+      "topicName": "Secret Anime Hobby",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You mentioned listening to anime songs before. What anime do you like?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh... Y-you remembered that...",
+          "voiceFile": "talk_anime_secret_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yeah. I was curious."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "...Actually... There's an anime on Sunday mornings called 'Lily Cure' that I...",
+          "voiceFile": "talk_anime_secret_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Lily Cure? The one where the girls transform?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Y-yes... It's childish, isn't it...",
+          "voiceFile": "talk_anime_secret_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "How long have you been watching it?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Since elementary school... I've been watching it.",
+          "voiceFile": "talk_anime_secret_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Wow, if you've been watching it that long, you must really love it."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "When I told my friends, they thought it was weird... So I haven't told anyone since...",
+          "voiceFile": "talk_anime_secret_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I don't think it's weird at all. You should like what you like."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Really...? Thank you...",
+          "voiceFile": "talk_anime_secret_006"
+        }
+      ]
+    },
+    "talk_test_result": {
+      "topicName": "Test Results",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You seem to be in a good mood today. Did something happen?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Actually... I got 2nd place in my class on the test.",
+          "voiceFile": "talk_test_result_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Wow, that's great! Who got first?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "A boy they call a genius... He always gets first place.",
+          "voiceFile": "talk_test_result_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You're plenty amazing too, Nana. As a reward, how about I give you a special service today?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "S-special service...?",
+          "voiceFile": "talk_test_result_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I'll massage anywhere you want!"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Anywhere I want...?",
+          "voiceFile": "talk_test_result_004"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Then... um...",
+          "voiceFile": "talk_test_result_005"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Could you... pat my head...?",
+          "voiceFile": "talk_test_result_006"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "!"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Of course!"
+        }
+      ]
+    },
+    "talk_travel_wish": {
+      "topicName": "About Travel",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Is there anywhere you'd like to travel to, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Well... Hot springs, I guess...",
+          "voiceFile": "talk_travel_wish_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hot springs! That's a mature choice."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "My grandmother loves hot springs, and I started liking them after going with her...",
+          "voiceFile": "talk_travel_wish_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hot springs, huh~ That sounds nice. Mixed bathing?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "N-no! Just normal hot springs!",
+          "voiceFile": "talk_travel_wish_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That's too bad. If it were mixed bathing, I could bathe with you, Nana~"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Together...?",
+          "voiceFile": "talk_travel_wish_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hot springs make your skin all smooth, don't they?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Y-yes...",
+          "voiceFile": "talk_travel_wish_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "When you get back, I'll have to check if your skin changed!"
+        }
+      ]
+    },
+    "talk_summer_plan": {
+      "topicName": "Summer Plans",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you have any plans for summer vacation?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "My family is planning to go to the beach.",
+          "voiceFile": "talk_summer_plan_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "The beach~ That sounds nice. What kind of swimsuit will you wear? A bikini?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "U-um... A one-piece...",
+          "voiceFile": "talk_summer_plan_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Eh, a one-piece? Nana, you have such a nice figure - you should wear a bikini~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "N-no... A bikini would be too... embarrassing...",
+          "voiceFile": "talk_summer_plan_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(What you're wearing now is even more revealing though...)"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "What a waste. You'd definitely look great in one... I'd love to see you in a swimsuit, Nana~"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "If you take any photos, show me. You know, to check for tan lines."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_01",
+          "text": "P-photos are a bit... embarrassing...",
+          "voiceFile": "talk_summer_plan_004"
+        }
+      ]
+    },
+    "talk_massage_habit": {
+      "topicName": "Effects of Massage",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Your skin has been looking better lately~"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Really? I can't tell myself...",
+          "voiceFile": "talk_massage_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I see you every week, so I can tell. Especially the skin here... (touches thigh)"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Ah! N-not there...",
+          "voiceFile": "talk_massage_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It's proof that your blood circulation is improving~ Maybe it's the result of my massages?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Y-yes... Maybe it is...",
+          "voiceFile": "talk_massage_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "If you notice any other changes, let me know."
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "Looking Back at 3 Months",
+      "trustEffect": 8,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It's been 3 months since you started coming here."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "That's right... I was so nervous at first...",
+          "voiceFile": "talk_looking_back_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Now you're completely used to it."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "It's become a place where I can truly relax now.",
+          "voiceFile": "talk_looking_back_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I'm happy that you're comfortable entrusting your body to my hands."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "My body and mind feel so much better. It's all thanks to you, sensei.",
+          "voiceFile": "talk_looking_back_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Let's keep working together on your health."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Yes! Thank you.",
+          "voiceFile": "talk_looking_back_004"
+        }
+      ]
+    },
+    "talk_best_memory": {
+      "topicName": "Sharing Secrets",
+      "trustEffect": 7,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "What's the most memorable moment from these 3 months?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um...",
+          "voiceFile": "talk_best_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "For me, it was when you told me about Lily Cure."
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh!? That story...?",
+          "voiceFile": "talk_best_memory_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I was happy that you shared your secret with me. It felt like we became closer~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "When you accepted me that time... I was really happy.",
+          "voiceFile": "talk_best_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Feel free to tell me anything from now on too."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Yes... I can talk to you about anything, sensei.",
+          "voiceFile": "talk_best_memory_004"
+        }
+      ]
+    },
+    "talk_first_love": {
+      "topicName": "First Love",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "When was your first love, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh!? Why are you suddenly asking that...",
+          "voiceFile": "talk_first_love_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Come on, tell me~"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "...In 4th grade.",
+          "voiceFile": "talk_first_love_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh~ What kind of person were they?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "A senior from my piano class... He was kind and always helped me...",
+          "voiceFile": "talk_first_love_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Did you confess?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "I-I could never do that! Just watching him was enough...",
+          "voiceFile": "talk_first_love_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you have anyone you like now?"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "N-no...! I don't have time for that...",
+          "voiceFile": "talk_first_love_005"
+        }
+      ]
+    }
+  }
+}

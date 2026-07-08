@@ -1,0 +1,806 @@
+{
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "Wow...! Such beautiful flowers.",
+        "voiceFile": "gift_flowers_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "I thought they'd suit you, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "For... me...?",
+        "voiceFile": "gift_flowers_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "You always work so hard. I wanted to show my appreciation."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "Thank you so much. I'll display them carefully...",
+        "voiceFile": "gift_flowers_003"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "Wow! Matcha chocolate?",
+        "voiceFile": "gift_matcha_chocolate_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "Yeah. It's made with Uji matcha from a famous shop in Kyoto."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "I love matcha...! Thank you so much!",
+        "voiceFile": "gift_matcha_chocolate_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "I'm glad you like it. Have some when you're tired."
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "Headphones...? And they look really expensive...",
+        "voiceFile": "gift_headphones_001"
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "Can I really accept these?",
+        "voiceFile": "gift_headphones_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "Of course. I want you to have them, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "I'll use them for piano practice. The sound quality looks amazing...",
+        "voiceFile": "gift_headphones_003"
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "Thank you so much...!",
+        "voiceFile": "gift_headphones_004"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "A music box...? Wow, such a beautiful melody...",
+        "voiceFile": "gift_music_box_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "I thought it matched your gentle personality."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_closeeyes_smile",
+        "text": "This melody really calms my heart...",
+        "voiceFile": "gift_music_box_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closeeyes_smile",
+        "text": "Listen to it before bed, and you'll have sweet dreams."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "I'll treasure it. Thank you.",
+        "voiceFile": "gift_music_box_003"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "This is... a posture corrector?",
+        "voiceFile": "gift_posture_support_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "I was a bit concerned about your posture."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_nervoussmile",
+        "text": "You noticed my poor posture...",
+        "voiceFile": "gift_posture_support_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_nervoussmile",
+        "text": "As a body care professional, I'm worried about your health."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "I'll use it while studying. Thank you!",
+        "voiceFile": "gift_posture_support_003"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "A book stand...? It's stylish and cute.",
+        "voiceFile": "gift_book_stand_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "I wanted to protect your neck since you love reading."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "My neck does hurt sometimes when reading, so I'm really happy.",
+        "voiceFile": "gift_book_stand_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "Now you can read comfortably for long periods."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "Thank you.",
+        "voiceFile": "gift_book_stand_003"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Huh...? This is... underwear...?",
+        "voiceFile": "gift_black_lingerie_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "It's special functional underwear. Designed to improve lymphatic flow."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "B-but... it's... see-through...!",
+        "voiceFile": "gift_black_lingerie_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "Breathability is important. The sheer material prevents moisture buildup."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "I-I can't accept this!",
+        "voiceFile": "gift_black_lingerie_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Don't be shy. I'd love to see you wearing it..."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_lookaway_openmouth",
+        "text": "Huh...? That's...",
+        "voiceFile": "gift_black_lingerie_004"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "Wow... it's pink and cute...",
+        "voiceFile": "gift_pink_rotor_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "It's a mini massager. I use proper ones like this in treatments."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "Oh, it vibrates. It's buzzing...",
+        "voiceFile": "gift_pink_rotor_002"
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "Where do you use it...?",
+        "voiceFile": "gift_pink_rotor_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_openmouth_sweat",
+        "text": "Shoulders, neck... and, um, cli... I mean, the clitoris is especially effective."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "C-clitoris...?",
+        "voiceFile": "gift_pink_rotor_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Lymph nodes concentrate there, so massaging it with vibration..."
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "Improves blood flow throughout your body. Feels really good. Try it."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "F-feels good...?",
+        "voiceFile": "gift_pink_rotor_005"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_closemouth",
+        "text": "......",
+        "voiceFile": "gift_pink_rotor_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "It's effective after bathing or before bed. Even over underwear is fine."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "O-over underwear...?",
+        "voiceFile": "gift_pink_rotor_007"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Is this... maybe... a p-pen...",
+        "voiceFile": "gift_custom_dildo_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Yeah! My pe... I mean, I made a mold of a special massage tool!"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_closemouth",
+        "text": "......",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "With this, you can do deep tissue massage yourself anytime."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "B-by myself...?",
+        "voiceFile": "gift_custom_dildo_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "Yeah! Use it when you're lonely or your body aches."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_lookaway",
+        "text": "......",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_lookaway",
+        "text": "(I wonder if she'll use it tonight... hehe...)"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "This is... a DVD...?",
+        "voiceFile": "gift_massage_av_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "It's an instructional DVD for massage therapy. You can learn professional techniques."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "But... the woman on the cover... she's making a strange face...",
+        "voiceFile": "gift_massage_av_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "That's because the treatment feels so good, she can't help but make that expression."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "It says 'Perverted Therapist's Techniques'...",
+        "voiceFile": "gift_massage_av_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "Yeah, it's a famous instructional series. Vol.7 has especially good reviews."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "There are... others...?",
+        "voiceFile": "gift_massage_av_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "Over 20 volumes. But Vol.7 is the best. It carefully explains treatments for high school girls."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "I-I see...",
+        "voiceFile": "gift_massage_av_005"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "Watch it alone at home when you have time. It'll be good reference material."
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "Tell me what you think. Which scene was most instructive."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "W-what I think...?",
+        "voiceFile": "gift_massage_av_006"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "Wow! Such a cute teddy bear...!",
+        "voiceFile": "gift_teddy_bear_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "I thought you could put it in your room, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "It's so soft and comfortable...! I want to hug it to sleep.",
+        "voiceFile": "gift_teddy_bear_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "I'd be happy if you hugged it when you're tired or lonely."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "Yes...! Thank you.",
+        "voiceFile": "gift_teddy_bear_003"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "An aroma diffuser...? Wow, such a stylish design...",
+        "voiceFile": "gift_aroma_diffuser_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "I thought it would help you relax when you're tired from studying."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_happysmile",
+        "text": "I love aroma scents...!",
+        "voiceFile": "gift_aroma_diffuser_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "It comes with lavender and chamomile oils too."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "Thank you...! My room will smell wonderful.",
+        "voiceFile": "gift_aroma_diffuser_003"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "It'll improve your sleep quality too, so rest well."
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "An eye mask...?",
+        "voiceFile": "gift_eye_mask_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "Your eyes seem tired from studying, so I thought this might help you rest."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile_openmouth",
+        "text": "The design is cute...! And it smells nice.",
+        "voiceFile": "gift_eye_mask_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "It's lavender scented. Supposed to have relaxing effects."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_smile",
+        "text": "My eyes have been getting tired easily lately... This really helps.",
+        "voiceFile": "gift_eye_mask_003"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Huh...? This is a really luxury brand bag...",
+        "voiceFile": "gift_luxury_bag_001"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "I thought it would suit you, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "Um... this is quite expensive, isn't it...?",
+        "voiceFile": "gift_luxury_bag_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "Well, I splurged a bit."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "S-something this expensive... I can't accept it...",
+        "voiceFile": "gift_luxury_bag_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "It's fine. I want you to use it, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "Thank you so much... but I feel so guilty...",
+        "voiceFile": "gift_luxury_bag_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "Your happiness is all that matters to me."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_happysmile",
+        "text": "Thank you... I'm really, really happy...",
+        "voiceFile": "gift_luxury_bag_005"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_happysmile",
+        "text": "I'll treasure it...!",
+        "voiceFile": "gift_luxury_bag_006"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "What is... this...?",
+        "voiceFile": "gift_vibrator_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "It's an electric massager. Works great for stiff shoulders and back pain."
+      },
+      {
+        "character": "Nana",
+        "expression": "normal_openmouth",
+        "text": "Electric... massager...",
+        "voiceFile": "gift_vibrator_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "The vibration is powerful, so it feels good on tense areas."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "But... the shape is...",
+        "voiceFile": "gift_vibrator_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "It's ergonomically designed. You can use it anywhere on your body."
+      },
+      {
+        "character": "Nana",
+        "expression": "doubt_openmouth_sweat",
+        "text": "Anywhere... on my body...?",
+        "voiceFile": "gift_vibrator_004"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "Yeah. Especially on sensitive areas, it's supposed to be very relaxing."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "S-sensitive... areas...?",
+        "voiceFile": "gift_vibrator_005"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Try it slowly when you're alone. Instructions are in the manual."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_lookaway",
+        "text": "O-okay...",
+        "voiceFile": "gift_vibrator_006"
+      }
+    ]
+  },
+  "gift_diamond_ring_rejected": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Huh...!? Is this... a diamond ring...!?",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Yeah! I worked hard to save up and buy it."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "T-this... for me......?",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "I thought it would suit you, Nana."
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "Will you accept it?"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "Um...... Well... I'm sorry...",
+        "voiceFile": "gift_diamond_ring_rejected_001"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_lookaway_openmouth",
+        "text": "I appreciate your feelings, but... I can't accept this...",
+        "voiceFile": "gift_diamond_ring_rejected_002"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "I think you should give something like this to someone special...",
+        "voiceFile": "gift_diamond_ring_rejected_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "Huh......"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "(No way... I guess my trust level wasn't high enough...)"
+      }
+    ]
+  },
+  "gift_diamond_ring_accepted": {
+    "dialogues": [
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Huh...!? Is this... a diamond ring...!?",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "Yeah! I worked hard to save up and buy it."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "T-this... for me......?",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "I thought it would suit you, Nana."
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "Will you accept it?"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_openmouth",
+        "text": "N-no way... Are you sure this is okay?",
+        "voiceFile": "gift_diamond_ring_accepted_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "Yeah. I bought it for you, Nana."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_happysmile",
+        "text": "...Thank you. I'm so happy...",
+        "voiceFile": "gift_diamond_ring_accepted_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "Let me put it on you. Give me your hand."
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "On your left ring finger..."
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_surprised_sweat",
+        "text": "Huh!? T-that finger is...",
+        "voiceFile": "gift_diamond_ring_accepted_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "(Gently slips the ring onto her ring finger)",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_nervoussmile",
+        "text": "Wow... it fits perfectly...",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_004"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_nervoussmile",
+        "text": "It's so beautiful... it sparkles...",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_005"
+      },
+      {
+        "character": "Nana",
+        "expression": "blush_happysmile",
+        "text": "Thank you so much. I'll treasure it...",
+        "voiceFile": "gift_diamond_ring_accepted_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "(Yes!! Maybe now I can marry Nana... hehe...)"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "(Put a ring on her finger... and maybe I'll put my dick in too!? Hehehe...)"
+      }
+    ]
+  }
+}
