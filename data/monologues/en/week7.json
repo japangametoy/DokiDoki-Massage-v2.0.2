@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 7 is over... time flies so fast)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Thanks to Nana-chan introducing her friends, I've been getting new clients)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The reputation is good, and sales are steadily growing)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Maybe I should buy some new equipment)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I'd also like to attend some advanced seminars to improve my skills)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Or should I try gambling for a big win to speed up repayment...?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(No, maybe I should just look for a part-time job...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 12... these 3 months have really flown by)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Thanks to Nana-chan, the clinic's reputation is at its peak)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She comes almost every day, I'm truly grateful)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(My treatment skills have improved dramatically, and I've developed new techniques)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Now it's just the debt. The repayment deadline is this week.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(If I can't pay it back...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I need to make sure I have no regrets.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do now...)"
+    }
+  ]
+}

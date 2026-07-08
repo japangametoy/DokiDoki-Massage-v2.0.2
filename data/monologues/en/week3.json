@@ -1,0 +1,51 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 3... time flies so fast...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan seems much more relaxed lately)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I wonder if she trusts me...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Honestly, I'm... starting to look forward to Nana-chan's visits...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(No, no, that's not right! I mustn't forget the relationship between client and therapist!)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But... the repayment deadline won't wait...)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(At this rate, I might not make it...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(No new clients are coming, and I don't have money for advertising...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I guess I just have to do my best this week too...)"
+    }
+  ]
+}

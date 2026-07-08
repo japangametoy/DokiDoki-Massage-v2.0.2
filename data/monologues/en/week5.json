@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Today's treatment is done...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 5... Nana-chan's body has changed so much)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I was happy when she said 'I can't do without sensei's treatments')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She was already fully ready even before the treatment started...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She also mentioned wanting to introduce her friends)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She must genuinely trust my skills)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

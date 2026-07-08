@@ -1,0 +1,46 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(After Nana-chan left, I'm alone in the treatment room...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Phew, my first client... somehow made it through safely...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan is so innocent and... cute...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She looked so hot in that treatment gown...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Wait, what am I thinking?! I need to focus on paying back my debt first!)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(12 weeks until the repayment deadline. At this rate, I'll never make it...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I need to think of other ways to earn money...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

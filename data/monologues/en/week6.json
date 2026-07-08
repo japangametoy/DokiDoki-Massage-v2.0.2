@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 6 treatment is finished...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan has started coming twice a week lately)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Her reactions during treatment... have become quite sensitive)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Her legs were unsteady when she left, so it seems to be really effective)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She looked embarrassed saying 'Sorry... the afterglow is still...')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She might be starting to depend quite a bit on my treatments)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

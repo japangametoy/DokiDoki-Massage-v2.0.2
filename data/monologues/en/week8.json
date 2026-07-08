@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Entering the second month... that was quick)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan has become a regular client, coming almost daily)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Lately her treatment requests have become more specific, really testing my professionalism)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I need to make sure I don't forget about the debt repayment)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Maybe I should try buying some new treatment tools at the shop)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Getting a part-time job to increase funds is another option)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(What should I do this week...)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan left...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 4... lately she's really started to relax during treatments)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(During today's treatment, she showed such honest reactions)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Saying 'Sensei... there...' while her body responded honestly)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(We've built trust, so maybe it's time to move to the next stage)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Maybe she needs treatment in deeper areas...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

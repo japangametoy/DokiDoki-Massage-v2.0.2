@@ -1,0 +1,64 @@
+{
+  "random_talks": [
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Looking for something?\nIf you'd like, I can recommend something for you♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Hehe♡ Your face is turning red.\nAre you perhaps nervous?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "All of our products are ones I can confidently recommend♡\nI'll explain how to use them in detail♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Wow♡ You're such a lovely customer♡\nWould you like to see some more special items?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Oh my♡ If you stare at me like that...\nI'll get embarrassed♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Today, I'll give you a special service♡\nKeep it a secret, okay?♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "What type do you prefer?\nI'd like to know for future reference♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Do you perhaps think I'm cute?\nI'm so happy♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "If you'd like, I can prepare even more special services for you♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Hehe♡ Your reaction is adorable♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Hehe♡ Your eyes are glued to my chest♡\nAre you that interested?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Hehe♡ If you keep staring like that, you'll bore a hole in my boobs♡"
+    }
+  ]
+}
