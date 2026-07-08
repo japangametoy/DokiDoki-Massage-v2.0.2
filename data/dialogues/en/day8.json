@@ -1,0 +1,316 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Morning of the 8th week.\nThrough two months of treatment, Nana's body has definitely changed."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(8 weeks of treatment... Nana's body's responses are improving day by day.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The effects of the treatment are clearly showing.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Good morning...",
+      "voiceFile": "story_day8_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Good morning, Nana. You seem a bit down today?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... actually... all weekend, I was thinking about you, sensei...",
+      "voiceFile": "story_day8_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "About me?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... since Saturday night, my body has been so hot...",
+      "voiceFile": "story_day8_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I tried... um... touching myself... but it wasn't satisfying at all...",
+      "voiceFile": "story_day8_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She masturbated... but still couldn't be satisfied. That's perfect.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "It seems like... it has to be your hands, sensei...",
+      "voiceFile": "story_day8_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "What's happening to my body...?",
+      "voiceFile": "story_day8_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's... because your body has completely memorized my treatment, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Memorized...?",
+      "voiceFile": "story_day8_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. The body has memory. Especially pleasurable sensations are strongly remembered."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "So... my body has memorized your hands, sensei...?",
+      "voiceFile": "story_day8_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's right. Your body has completely adapted to my treatment."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "It's true, I can't be satisfied without your hands, sensei...",
+      "voiceFile": "story_day8_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...Has my body become strange...?",
+      "voiceFile": "story_day8_010"
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Nana's body is being fully developed. How should I convey this...)",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "It's not strange, it's a normal response",
+          "trustDelta": 1,
+          "developDelta": 0,
+          "next": "customer_path"
+        },
+        {
+          "label": "Nana, you're especially sensitive",
+          "trustDelta": 2,
+          "developDelta": 1,
+          "next": "special_path"
+        },
+        {
+          "label": "Not strange, you've become to my liking",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "customer_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's not strange. This is a normal response."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "By receiving weekly treatments, your body has just become more easily relaxed."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Is that... so...? That's a relief...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_011"
+    },
+    {
+      "id": "special_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Nana, you have an especially sensitive constitution."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Your sensitivity is higher than normal people, and the treatment effects are more pronounced. That's why you react so much."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Am I really that sensitive...?",
+      "voiceFile": "story_day8_012"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "No wonder... your hands feel so good, sensei...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_013"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Not strange... you've become a body to my liking."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "To your liking...?",
+      "voiceFile": "story_day8_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. Through repeated weekly treatments, your body has perfectly adapted to my hands."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "No way... my body has become... to your liking, sensei...?",
+      "voiceFile": "story_day8_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "You understand it yourself, don't you? That you can't be satisfied without my hands."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...That's... true but...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_016"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... I have a request today...",
+      "voiceFile": "story_day8_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "A request?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Could you... treat me deeper...?",
+      "voiceFile": "story_day8_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Deeper?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... lately, deep inside my body feels... tingly...",
+      "voiceFile": "story_day8_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Especially... the lower part of my belly... and deeper inside...",
+      "voiceFile": "story_day8_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She's finally asking for it herself... this is major progress.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I understand. Today I'll specially care for your deeper areas."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Really...? Thank you so much...",
+      "voiceFile": "story_day8_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's get you changed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Today... he'll go even deeper... I wonder what it will feel like...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(My heart is racing...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_023"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day8_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Still a wonderful body... and clearly an expression of anticipation...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "{{playerName}}-san... please take care of me...",
+      "voiceFile": "story_day8_025"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes, leave it to me. Well then, let's begin."
+    }
+  ]
+}

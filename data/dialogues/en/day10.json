@@ -1,0 +1,365 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 10th week.\n{{playerName}}'s delusions know no bounds anymore."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Hehehe... Nana's body is completely mine...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She even seeks me in her dreams lately... hehehe...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "G-good morning...",
+      "voiceFile": "story_day10_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh my, your face is red today. What happened?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... last night, I had another strange dream...",
+      "voiceFile": "story_day10_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Here it comes! She's seeking me even in her dreams!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh really? What kind of dream? Tell me in detail."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "You had... so many hands, sensei...",
+      "voiceFile": "story_day10_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "L-like a thousand-armed Kannon... being touched...",
+      "voiceFile": "story_day10_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Thousand-armed Kannon!? (I didn't even imagine that...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "When I woke up this morning... um... I was sweating a lot...",
+      "voiceFile": "story_day10_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "My mom was worried about me...",
+      "voiceFile": "story_day10_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's proof of good health. Your metabolism is active."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... it's a bit embarrassing...",
+      "voiceFile": "story_day10_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(How wet does she get... that's the best...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "And... lately, I've been having trouble at school too...",
+      "voiceFile": "story_day10_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "At school?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "During class... um... my body gets hot...",
+      "voiceFile": "story_day10_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "They asked if I wanted to go to the nurse's office... it was so embarrassing...",
+      "voiceFile": "story_day10_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She's thinking about me and getting wet during class! This is crazy! So exciting!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's... maybe the stimulation was a bit too strong. I'll be more moderate today."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Eh? Moderate?",
+      "voiceFile": "story_day10_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "U-um... but...",
+      "voiceFile": "story_day10_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Eh?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Without your treatment, sensei... I feel restless...",
+      "voiceFile": "story_day10_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "When I missed the last time too... I felt really bad...",
+      "voiceFile": "story_day10_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Crying while masturbating... that's a new one... note note...)"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I see. So what should we do today?",
+      "choices": [
+        {
+          "label": "I'll treat you normally (lie)",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "normal_lie_path"
+        },
+        {
+          "label": "Let's try the newly developed special oil",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "special_oil_path"
+        },
+        {
+          "label": "Today let's focus on the lower body... hehehe",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "lower_focus_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_lie_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Normal treatment... that's a relief.",
+      "voiceFile": "story_day10_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(That's a lie though! I'll make it more intense than ever!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes, normally, gently, and thoroughly, I'll treat you.",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "special_oil_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Newly developed oil?",
+      "voiceFile": "story_day10_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! It's called 'Writhing Heaven Oil'..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "W-writhing!?",
+      "voiceFile": "story_day10_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, my mistake. It's 'Paradise Land Oil'. They sound similar, right?",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "lower_focus_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "F-focus on the lower body... you mean...?",
+      "voiceFile": "story_day10_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes, the pelvis area is important."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "R-right...",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(I feel like he was laughing strangely...)",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_020"
+    },
+    {
+      "id": "prepare_crazy",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... lately I've been thinking...",
+      "voiceFile": "story_day10_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hmm?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Your clinic has a unique scent, sensei...",
+      "voiceFile": "story_day10_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Scent?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "How should I say... it's mysterious...",
+      "voiceFile": "story_day10_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(That's the smell of my desire!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, that's special incense. It has a relaxing effect."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Incense... you say. It's quite unique...",
+      "voiceFile": "story_day10_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's 'Ganges River Fragrance' imported directly from India."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Ganges River!? Is that safe!?",
+      "voiceFile": "story_day10_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's fine, it's fine. Come on, get changed, get changed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(I've gotten used to it... this scent...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_026"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(It's calming... yet makes me restless...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_027"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I-I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day10_028"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Oh... just from changing, there's something glistening on her thighs...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... this is a bit embarrassing...",
+      "voiceFile": "story_day10_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's healthy, that's good. Now, it's time for today's fun treatment."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hehehe... today let's experiment with how far you can go..."
+    }
+  ]
+}

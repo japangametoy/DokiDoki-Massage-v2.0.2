@@ -1,0 +1,339 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 11th week.\nThe trust between Nana and me has deepened considerably."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana has gotten quite used to the treatments...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Her body's responses have improved lately, which is healthy)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "G-good morning...",
+      "voiceFile": "story_day11_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh...? Are you already wet today?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Eh!? N-no, that's not...!",
+      "voiceFile": "story_day11_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I can tell by the way you walk. You're fidgeting with your legs together, right?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-that's... I'm just not feeling well...",
+      "voiceFile": "story_day11_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... {{playerName}}-san... I have something to consult about...",
+      "voiceFile": "story_day11_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "What is it?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Lately, just living normally... um... I get wet so easily...",
+      "voiceFile": "story_day11_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Just sitting in a chair during class, my bottom feels tingly...",
+      "voiceFile": "story_day11_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "During class?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "The chair... gets wet... and when I stand up it's so embarrassing...",
+      "voiceFile": "story_day11_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That must be tough. Anything else?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "When climbing stairs too... my thighs rub together... and I almost let out a squeal...",
+      "voiceFile": "story_day11_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "The other day, a friend just patted me on the shoulder...",
+      "voiceFile": "story_day11_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Just patted your shoulder?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "My body jerked... and they asked 'Are you okay?'...",
+      "voiceFile": "story_day11_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I rushed to the bathroom... and my underwear was already soaked...",
+      "voiceFile": "story_day11_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Her body is completely developed... this is good)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Also, on the train...",
+      "voiceFile": "story_day11_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Something happens on the train too?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I have to grip the strap tight... The vibration... I can't stand...",
+      "voiceFile": "story_day11_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "The other day, when the train suddenly stopped, my body swayed... and then...",
+      "voiceFile": "story_day11_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "And then?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I let out a strange sound... and people around me looked... ",
+      "voiceFile": "story_day11_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I got off at the next station, went to the station bathroom... and...",
+      "voiceFile": "story_day11_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Lost all strength...",
+      "voiceFile": "story_day11_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Climaxing in a station bathroom... that's so erotic)"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I see. What should we do today?",
+      "choices": [
+        {
+          "label": "Let's do a treatment to adjust your sensitivity",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "sensitivity_down_path"
+        },
+        {
+          "label": "Let's practice feeling even better",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "practice_path"
+        },
+        {
+          "label": "How about making your whole body an erogenous zone",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "full_body_path"
+        }
+      ]
+    },
+    {
+      "id": "sensitivity_down_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Lower my sensitivity... you can do that?",
+      "voiceFile": "story_day11_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Of course! I can properly adjust your sensitivity with special oil."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "That's good... then I feel reassured.",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_019"
+    },
+    {
+      "id": "practice_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "P-practice...?",
+      "voiceFile": "story_day11_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! If you learn to control it, you won't have problems!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "B-but... it's embarrassing...",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_021"
+    },
+    {
+      "id": "full_body_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "M-my whole body!?",
+      "voiceFile": "story_day11_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! So you can twitch and jerk just from touching a single strand of hair!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-that would make things even worse...!",
+      "voiceFile": "story_day11_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay! I'll take care of you forever.",
+      "next": "prepare_session"
+    },
+    {
+      "id": "prepare_session",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... also... lately, I've been having better dreams...",
+      "voiceFile": "story_day11_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's good."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Sometimes I dream about the treatments...",
+      "voiceFile": "story_day11_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "When I wake up in the morning, my body feels really relaxed.",
+      "voiceFile": "story_day11_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's proof the treatments are working."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Your treatments really are effective, sensei...",
+      "voiceFile": "story_day11_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's get you changed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(This outfit... I've gotten pretty used to it too...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day11_028"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I-I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day11_029"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Are you ready?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Y-yes... please.",
+      "voiceFile": "story_day11_030"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Now, let's carefully proceed with today's treatment."
+    }
+  ]
+}

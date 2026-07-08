@@ -1,0 +1,333 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 7th week.\nNana's body is clearly changing. And she herself is beginning to become aware of it."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Already 7 weeks... I feel like Nana's body has completely gotten used to my touch.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Good morning. Please take care of me again today.",
+      "voiceFile": "story_day7_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Good morning, Nana. You look energetic today too."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... but lately, my body feels strange...",
+      "voiceFile": "story_day7_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Strange? In what way?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Well... from the moment I wake up, my body feels flushed...",
+      "voiceFile": "story_day7_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Especially... my chest and lower abdomen... have become so sensitive...",
+      "voiceFile": "story_day7_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Even just my clothes rubbing against me makes me flinch...",
+      "voiceFile": "story_day7_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Oh... we've finally reached this point. This is proof her body is being fully developed.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's evidence your body is being activated. Your blood circulation has improved and your nerves have become sensitive."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Is that so... but it's kind of embarrassing...",
+      "voiceFile": "story_day7_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Even during class, just sitting in a chair... feels strange...",
+      "voiceFile": "story_day7_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Strange feeling?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Um... my crotch area tingles... and feels itchy...",
+      "voiceFile": "story_day7_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Sometimes, I even get wet...",
+      "voiceFile": "story_day7_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(This is... she's completely sexually awakening. This is good progress.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's a natural reaction. When a young woman's hormonal balance is regulated, these changes occur."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Really...? I'm not strange...?",
+      "voiceFile": "story_day7_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Not strange at all. Rather, it's evidence of good health."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... I've also been having strange dreams lately...",
+      "voiceFile": "story_day7_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Dreams where you appear, sensei...",
+      "voiceFile": "story_day7_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Eh? I do?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Y-yes... dreams where I'm being massaged... and it feels so good...",
+      "voiceFile": "story_day7_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "When I wake up, my underwear is soaked... and the sheets are stained...",
+      "voiceFile": "story_day7_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She's climaxing in her dreams... the development is progressing beyond expectations.)"
+    },
+    {
+      "id": "choice_massage7",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I see... what your subconscious desires is appearing in your dreams.",
+      "choices": [
+        {
+          "label": "You don't need to worry",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "reassure_path"
+        },
+        {
+          "label": "It's evidence your body is maturing",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "mature_path"
+        },
+        {
+          "label": "You can be more liberated",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "liberate_path"
+        }
+      ]
+    },
+    {
+      "id": "reassure_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Really... that's reassuring.",
+      "voiceFile": "story_day7_015"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Yes. Nana, you're not doing anything wrong. It's a natural bodily response.",
+      "next": "continue_talk"
+    },
+    {
+      "id": "mature_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Maturing... you mean...?",
+      "voiceFile": "story_day7_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. Nana, your body is becoming that of an adult woman."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "An adult woman... that's kind of embarrassing...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_017"
+    },
+    {
+      "id": "liberate_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Liberated...?",
+      "voiceFile": "story_day7_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. You don't need to suppress your desires. It's okay to be honest about what your body wants."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "B-but... that's too embarrassing...",
+      "voiceFile": "story_day7_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "There's nothing to be embarrassed about. It's a natural human desire."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "If you say so, sensei... I'll try to accept it little by little...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_020"
+    },
+    {
+      "id": "continue_talk",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "So, what's bothering you today?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Well... my whole body is sensitive but... especially my chest...",
+      "voiceFile": "story_day7_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "My bra feels tight... and my nipples rubbing hurts...",
+      "voiceFile": "story_day7_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Even her nipples have become sensitive... perfect.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's probably because blood flow has improved and your breasts are swelling. Today I'll give them thorough care."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Y-yes... please...",
+      "voiceFile": "story_day7_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's get you changed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Wearing this outfit... doesn't just make me nervous... it makes me shiver...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Have I become strange...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day7_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Wow... her physique has clearly changed. Her breasts are fuller and her skin is glowing.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... please don't stare... it's embarrassing...",
+      "voiceFile": "story_day7_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Sorry, sorry. But I was just thinking you've really become beautiful."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "D-don't say... I'm beautiful...",
+      "voiceFile": "story_day7_028"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's begin."
+    }
+  ]
+}

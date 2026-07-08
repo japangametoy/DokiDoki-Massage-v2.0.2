@@ -1,0 +1,380 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Several months later.\nThe clinic was on the verge of collapse, drowning in debt."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Another month in the red... It's hopeless..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "The last time Nana came was 3 months ago.\nShe hasn't shown up since."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana... if only I had approached her more aggressively...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hey!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "T-Tatsu-san...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Boss, is this the therapist?"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "He's skinny and scrawny."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "W-who are these people!?"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "These guys are from my crew. More importantly...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "You're six months behind on your loan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I-I'm sorry...! Just a little more time...!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "...Time? I've waited long enough. Looks like I misjudged you.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "If you can't pay the money... you'll have to pay with your body.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "W-with my body...!?"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I-I understand... I'm prepared..."
+    },
+    {
+      "character": "tatsu",
+      "expression": "surprised",
+      "text": "Huh?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I-I'm not confident in that area, but... I'm prepared to offer my ass!"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Huh!? What the hell is this guy saying!?"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Who wants your filthy ass!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...Geez, what are you thinking.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hey, take him away.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Yessir! Come on, let's go!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "N-no! You're going to sell my organs, aren't you!? ...At least take the ass! You can have as much ass as you want!"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "I said we don't want it! Gross!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Really... is my ass that worthless..."
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Why would you think it has any value?"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Now, get in the car."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Nooooo! At least the ass! Just the ass!"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Shut up! Still going on about that!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} was dragged away by the crew's men."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ah... is this how I end...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(At least... I wish I could have seen Nana one more time...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Several days later"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "At the location where the clinic used to be, a 'Tenant Available' sign was hung."
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Huh...? The clinic should have been here...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "Sensei... where did you go...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I've been so busy lately, I couldn't come at all...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "I wish I had come more often...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Sensei's treatment was unusual, but... it really helped my body...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Nana looked a little sad as she gazed at where the clinic used to be."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──At a certain underground facility"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "In the dim underground, there was a man covered in sweat, carrying cargo."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Haa... haa... so heavy..."
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Hey newbie! Don't you dare take a break!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "S-sorry..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} ended up working for Tatsu's crew.\nEvery day, he was forced to sort and transport illegal goods in the warehouse."
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Well, think of it as better than having your organs sold."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ugh... this is tough... How many more years do I have to work here...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But there are some perks occasionally...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──That night, at Tatsu's office"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hey. Come here.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Y-yes!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "tired",
+      "text": "My shoulders are stiff. Give me a massage.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...! Leave it to me! I used to be a pro!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} moved behind Tatsu and began massaging her shoulders."
+    },
+    {
+      "character": "tatsu",
+      "expression": "satisfied",
+      "text": "Mmm... not bad.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Chance...! Slowly move my hands down...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Boss, your pectoral muscles seem tense too. Let me also..."
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "...Hey.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Where do you think you're touching?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "N-no! It's purely for treatment...!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Don't get cocky. Do it again and I'll break your fingers.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Y-yes! Just the shoulders!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...I need to relax her more... Next time I'll go for the boobs...!)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} became an underground laborer."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "His days are filled with hard labor, but he continues to aim for boobs undeterred.\nIn a way, perhaps this is happiness."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【BAD? END - Underground Laborer END】",
+      "triggerEnding": "bad"
+    }
+  ]
+}

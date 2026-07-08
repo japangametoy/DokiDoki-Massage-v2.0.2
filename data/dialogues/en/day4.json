@@ -1,0 +1,291 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Wednesday. Morning of the 4th week.\nThree weeks have passed since Nana started coming. Her body and mind are both changing steadily."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She's been coming every week now... I can definitely call her a regular customer.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But with just her alone, I can't keep the business running. I need to find a way to attract more customers...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Good morning! Please take care of me again today.",
+      "voiceFile": "story_day4_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Good morning, Nana. Glad to see you looking energetic."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Yes! Last week's massage was really effective... My back pain is almost completely gone.",
+      "voiceFile": "story_day4_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "So... I told my friends about this place.",
+      "voiceFile": "story_day4_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Really? You did?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "Yes. When I told them it feels really good, everyone got interested...",
+      "voiceFile": "story_day4_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... I couldn't really mention the outfit...",
+      "voiceFile": "story_day4_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(The possibility of new customers...! This is a great opportunity!)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "So, how are you feeling today? Any areas that are bothering you?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Well... today... my stomach area feels tight...",
+      "voiceFile": "story_day4_006"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I've been stress-eating a lot of sweets lately... and my stomach seems to be getting bloated...",
+      "voiceFile": "story_day4_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Stomach tightness... In that case, let's try the treatment with you lying on your back today."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "On my back... you mean? That's a different position from usual.",
+      "voiceFile": "story_day4_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yes. When you're on your back, I can properly loosen the muscles around your abdomen and regulate your internal organs."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Also, by sending waves from the front of your body, I can balance your autonomic nervous system."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "From the front... that's kind of embarrassing...",
+      "voiceFile": "story_day4_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "But I trust you, sensei... I'll leave it to you.",
+      "voiceFile": "story_day4_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Thank you. I'm sure you'll feel the effects."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "And also... lately, my body feels flushed somehow...",
+      "voiceFile": "story_day4_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I have trouble falling asleep at night... and I keep having strange dreams...",
+      "voiceFile": "story_day4_012"
+    },
+    {
+      "id": "choice_massage4",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hmm... that might be a sign of autonomic nervous system imbalance.",
+      "choices": [
+        {
+          "label": "It's probably stress",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "stress_path"
+        },
+        {
+          "label": "Maybe hormonal imbalance",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "Your body might be craving something",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "desire_path"
+        }
+      ]
+    },
+    {
+      "id": "stress_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "That's true... I've had a lot of tests recently...",
+      "voiceFile": "story_day4_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Stress is the root of all illness. Today I'll make sure to give you proper care so you can relax.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "H-hormonal balance... you mean...?",
+      "voiceFile": "story_day4_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. Young women are especially susceptible to it. It's natural to become sensitive to bodily changes."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I see... I have been feeling strange in my body lately...",
+      "next": "change_clothes",
+      "voiceFile": "story_day4_015"
+    },
+    {
+      "id": "desire_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Huh? My body is craving something...?",
+      "voiceFile": "story_day4_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Your body is honest. When something is lacking, it sends proper signals."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "For example... when you lack physical contact or human warmth... your body can feel flushed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "N-no way...! I don't need anything like that...!",
+      "voiceFile": "story_day4_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay, nothing to be embarrassed about. It's a natural human desire.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Now then, let's get you changed. Today I'll be checking your abdomen area, so I'll be extra thorough."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Y-yes... understood.",
+      "voiceFile": "story_day4_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(I've gotten used to this outfit... but today he'll be touching my stomach too...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day4_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day4_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Still a wonderful body... And somehow, her skin seems even more radiant than before...)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Good, all set. Today I'd like to try some new techniques."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "New techniques... you mean?",
+      "voiceFile": "story_day4_021"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yes. There's a special manipulation technique to regulate internal organs. It might be a bit intense but..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I'll be fine... I trust you, sensei...",
+      "voiceFile": "story_day4_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Trust... That's a nice word.)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's begin."
+    }
+  ]
+}
