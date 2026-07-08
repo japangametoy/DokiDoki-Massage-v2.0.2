@@ -1,0 +1,201 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3ヶ月後。\n整体院は地域密着型の健全な整体院として定着していた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "先生、こんにちは！"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "やあ、ナナちゃん。今週もよく来たね。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "はい。先生に会いに来ました。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "今日は施術の予約じゃなかったよね？"
+    },
+    {
+      "character": "nana",
+      "expression": "embarrassed",
+      "text": "…はい。えへへ…ちょっとお話したくて…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（すっかり打ち解けたな…）"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_01",
+      "text": "あの…学校でこんなことがあって…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "うんうん。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは最近の学校生活のことを楽しそうに話し始めた。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "それで、友達が…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "へぇ、それは良かったね。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_01",
+      "text": "あと…最近ちょっと悩んでることがあって…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "どんなこと？"
+    },
+    {
+      "character": "nana",
+      "expression": "sad_01",
+      "text": "進路のこととか…将来のこととか…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そっか。色々考える時期だよね。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_02",
+      "text": "こういうこと…誰に相談すればいいか分からなくて…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "俺でよければ、いつでも相談に乗るよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "…ありがとうございます。"
+    },
+    {
+      "character": "nana",
+      "expression": "embarrassed",
+      "text": "先生って…お父さんみたいで…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "お、お父さん？"
+    },
+    {
+      "character": "nana",
+      "expression": "embarrassed",
+      "text": "あ、いえ…それは失礼ですよね。えっと…お兄ちゃん…みたいな…？"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ははは、どっちでも大丈夫だよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "とにかく…すごく頼りになるんです。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_01",
+      "text": "いてくれるだけで…安心できるというか…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そう言ってもらえて嬉しいよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "embarrassed",
+      "text": "はい。先生がいてくれるから、頑張れます。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（いい子に育ったな…）"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "あの…先生。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ん？"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "私…先生と出会えて、本当によかったです。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "施術だけじゃなくて…家族みたいに…やさしく接してくれて…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "俺の方こそ。ナナちゃんに会えて嬉しかったよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "smile",
+      "text": "これからも…ずっと、よろしくお願いします。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ああ、こちらこそ。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは、施術を受けるためだけでなく、近況報告や悩み相談のためにも整体院を訪れるようになった。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "それは施術師と患者という関係を超えた、家族のような絆だった。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUST MAX END - 信頼の絆】",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
