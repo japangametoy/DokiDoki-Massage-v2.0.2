@@ -1,0 +1,265 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Thursday. Morning of the 5th week.\nMy relationship with Nana has deepened, and the treatments are becoming more daring. And fortunately, there are changes in the business situation too..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Already the 5th week... Recently, little by little, new customers have been coming.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Yesterday there were 3, the day before 2... Everyone said in unison \"I heard from a friend.\")"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Good morning! Please take care of me again today.",
+      "voiceFile": "story_day5_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Good morning, Nana. Actually, I wanted to thank you."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Thank me... for what?",
+      "voiceFile": "story_day5_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Recently, new customers have been increasing. Everyone says \"I heard from a friend,\" so I'm sure you've been promoting the shop for me."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Oh... yes. When I told my friends, everyone was interested...",
+      "voiceFile": "story_day5_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "I really like the massages here... so I wanted everyone to experience them too.",
+      "voiceFile": "story_day5_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Thank you so much. Thanks to you, I think I can keep this shop running."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Oh no... I just talked about it because I thought it was good...",
+      "voiceFile": "story_day5_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... that special outfit was a bit hard to explain...",
+      "voiceFile": "story_day5_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hahaha, I suppose so. But you seem to have gotten quite used to it."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Well... I was embarrassed at first, but now I think of it as part of the treatment.",
+      "voiceFile": "story_day5_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "So, how are you feeling today?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Actually... I feel like my body has become very sensitive lately...",
+      "voiceFile": "story_day5_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Even just a light touch makes me flinch...",
+      "voiceFile": "story_day5_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's evidence that your blood circulation has improved and your nerves are becoming more active."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Is that so... but it feels strange...",
+      "voiceFile": "story_day5_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Especially... my chest and stomach area... feel so tingly...",
+      "voiceFile": "story_day5_011"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I see... that's evidence your body is changing.",
+      "choices": [
+        {
+          "label": "It's a healthy response",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "Your female hormones are activating",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "You might need more development",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "develop_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "A healthy response... I see. That's reassuring.",
+      "voiceFile": "story_day5_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yes. It's proof your body is functioning properly, so don't worry.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "F-female hormones... you mean?",
+      "voiceFile": "story_day5_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. When massage improves blood circulation, hormonal balance is also regulated. It means you're becoming more feminine."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "More feminine... now that you mention it, my skin condition has been improving lately too...",
+      "next": "change_clothes",
+      "voiceFile": "story_day5_014"
+    },
+    {
+      "id": "develop_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "D-development...?",
+      "voiceFile": "story_day5_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, no... I mean increasing your body's sensitivity. Your body still has hidden potential."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "S-saying it like that... is kind of embarrassing...",
+      "voiceFile": "story_day5_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Sorry, sorry. But it means there's room for you to feel even better.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Well then, let's get you changed again today."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Yes. I'm quite used to it now.",
+      "voiceFile": "story_day5_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(But... lately when I put on this outfit, my heart starts racing...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day5_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I've changed.",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day5_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Still a wonderful body...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Today, I'll give you an especially careful treatment, more than usual."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Eh... more careful than usual...?",
+      "voiceFile": "story_day5_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. You're a special customer. VIP treatment, you could say."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "S-special... that's too much...",
+      "voiceFile": "story_day5_021"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's begin."
+    }
+  ]
+}

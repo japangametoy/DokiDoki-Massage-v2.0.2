@@ -1,0 +1,277 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 6th week.\nNew customers are starting to settle in, and the business is gradually getting on track. And my relationship with Nana is also moving to a new stage..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6 weeks... it was long yet short. Nana is completely a regular now.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(And both her body and mind are definitely changing. Maybe today I can take it one step further...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Good morning!",
+      "voiceFile": "story_day6_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Um... this is the 6th time, right? It's completely become a habit now.",
+      "voiceFile": "story_day6_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "That's right. Thanks to you, this shop is thriving."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "Oh no... but my friends all seem satisfied, so I'm happy too.",
+      "voiceFile": "story_day6_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... everyone was surprised by that outfit...",
+      "voiceFile": "story_day6_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hahaha, but everyone ends up accepting it eventually, right?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Yes. Once they understand it's effective, everyone accepts it.",
+      "voiceFile": "story_day6_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "By the way, how are you feeling today?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Actually... I've been having bad dreams lately...",
+      "voiceFile": "story_day6_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I keep having strange dreams. Dreams that make my body feel hot... embarrassing dreams...",
+      "voiceFile": "story_day6_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh... could you tell me more about what kind of dreams?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "I-I can't say...! But when I wake up in the morning, I'm really tired...",
+      "voiceFile": "story_day6_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "And... my underwear is... um... sometimes wet...",
+      "voiceFile": "story_day6_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Oh... we've finally reached that point. Her body is completely starting to awaken...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's evidence your body is maturing. Suppressed desires are appearing in your dreams."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Desires... you mean?",
+      "voiceFile": "story_day6_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. Everyone has desires they want fulfilled. If you keep ignoring them, your body will suffer."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Then... what should I do...?",
+      "voiceFile": "story_day6_011"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Let's try a special treatment today.",
+      "choices": [
+        {
+          "label": "Relaxation-focused treatment",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "relax_path"
+        },
+        {
+          "label": "Treatment targeting deep psychology",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "psychology_path"
+        },
+        {
+          "label": "Treatment stimulating erogenous zones",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "relax_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Relaxation... that sounds safe.",
+      "voiceFile": "story_day6_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "By relaxing your body and mind, your desires should naturally settle down.",
+      "next": "special_treatment"
+    },
+    {
+      "id": "psychology_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Deep psychology... sounds complicated.",
+      "voiceFile": "story_day6_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Body and mind are connected. By releasing the desires hidden deep in your heart, your body will also feel better."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Releasing desires... that makes my heart race...",
+      "next": "special_treatment",
+      "voiceFile": "story_day6_014"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "E-erogenous zones!?",
+      "voiceFile": "story_day6_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Don't be surprised. This is also a proper medical approach. Appropriate stimulation of erogenous zones has the effect of balancing hormones."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "B-but... that's too embarrassing...!",
+      "voiceFile": "story_day6_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay. You can accept it. With all the treatments so far, your body is fully prepared."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "P-prepared... you're saying it like my body is seeking that kind of thing...",
+      "voiceFile": "story_day6_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It actually is seeking it. Your body is honest."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "N-no way...",
+      "voiceFile": "story_day6_018",
+      "next": "special_treatment"
+    },
+    {
+      "id": "special_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, could you change as usual?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Massaging sensitive areas is still embarrassing... but...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(...there's a part of me that's also looking forward to it... is that strange...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day6_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Perfect... with all the treatments so far, Nana's body has become remarkably sensual...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Now then, lie down on the bed."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Y-yes...",
+      "voiceFile": "story_day6_022"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's begin."
+    }
+  ]
+}

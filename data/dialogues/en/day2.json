@@ -1,0 +1,275 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──The morning of the second week after opening.\nLooking at the stack of bills silently stuffed into the mailbox from last week, I felt dizzy."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Whoa... this is..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I have so little money left... And still, only one patient.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But I know—persistence is power. The waves never betray you. That's what my master used to say.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......But honestly, I'd rather have cash than waves right about now......)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Hello. I... came back again...",
+      "voiceFile": "story_day2_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "......Welcome. I'm really happy. You coming here today... it saved me."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Uh, um... it's not that big of a deal...",
+      "voiceFile": "story_day2_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "The massage you gave me last week felt so good... My shoulders feel lighter.",
+      "voiceFile": "story_day2_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "But... that outfit was still a little embarrassing...",
+      "voiceFile": "story_day2_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I see. But it looked good on you. Just relax and take it easy today too."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "So, how's your body feeling today? Is there anything that's bothering you?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Well... lately, my legs have been tingling... I think it might be swelling...",
+      "voiceFile": "story_day2_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I've been sitting for so long recently... My calves and around my butt feel kind of heavy...",
+      "voiceFile": "story_day2_006"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Leg swelling, huh. In that case, let's try doing the treatment face-down today."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Face-down... you mean?",
+      "voiceFile": "story_day2_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yeah. When you're face-down, it's easier to work on the backs of your legs and glute muscles. It also helps improve blood circulation."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I see... But in that position... my butt will... be more noticeable...",
+      "voiceFile": "story_day2_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay. I'll work on you professionally and properly, so don't worry."
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Well then, let's get started when you're ready.",
+      "choices": [
+        {
+          "label": "Sitting for too long really impairs blood flow",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "serious_path"
+        },
+        {
+          "label": "You have a cute butt",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "cute_butt_path"
+        },
+        {
+          "label": "Can I touch it to check?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "serious_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Yes... I did think my posture has been pretty bad lately...",
+      "voiceFile": "story_day2_009"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Those small habits accumulate and show up in your body.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "cute_butt_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "C-cute...!? D-don't say things like that so suddenly...!",
+      "voiceFile": "story_day2_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, sorry. My honest thoughts just slipped out. I meant it in a good way, okay?",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Huh...!?",
+      "voiceFile": "story_day2_011",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hmm. I see...",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "U-um...?",
+      "voiceFile": "story_day2_012",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "This is called the gluteus maximus. It's actually the largest muscle in the body.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "When you sit for too long, this muscle stiffens up and blood flow gets worse.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hyah...! U-um... but...!",
+      "voiceFile": "story_day2_013",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Most lower back pain is actually caused by the glute muscles. If we don't loosen them up, it's hard to improve.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I see... I didn't know that...",
+      "voiceFile": "story_day2_014",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yeah, it's pretty stiff. No wonder your legs are swelling. Let's work on loosening this up properly.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Y-yes... Actually, my body does feel warmer than before...\nDoes that mean the blood flow is improving...?",
+      "voiceFile": "story_day2_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Alright, go ahead and change into the treatment wear again today."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "O-okay...",
+      "voiceFile": "story_day2_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Again... I have to wear that embarrassing outfit...)",
+      "voiceFile": "story_day2_017",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "......",
+      "voiceFile": "story_day2_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I'm changed...",
+      "voiceFile": "story_day2_019",
+      "outfit": "micro_bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Good, then let's begin the treatment."
+    }
+  ]
+}
