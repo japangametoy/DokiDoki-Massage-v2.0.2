@@ -1,0 +1,92 @@
+{
+  "title": "Full Debt Repayment Achievement",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...Yes! Finally paid off the entire debt...!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Hey! You in there!?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Tatsu-nee!? What's wrong, you're in such a hurry...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Is it true!? Did you really pay it all back!?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Yes! Full repayment complete!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "You really... paid it all back...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Your debt is cleared. You're a free man now.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Thank you so much! This is all thanks to Nana-ch... I mean, my customer!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "B-But... um...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Remember our deal about full repayment?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Ah, the special celebration for paying it all off.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Tch... you remembered.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...A promise is a promise. I'll keep my word.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Receive your reward",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

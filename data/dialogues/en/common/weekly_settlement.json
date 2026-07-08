@@ -1,0 +1,92 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Let's check last week's income and expenses...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Last week, Nana-chan was my only customer again...)",
+      "conditions": {
+        "maxCustomerCount": 1
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The number of customers is slowly increasing. I'll keep working hard.)",
+      "conditions": {
+        "minCustomerCount": 2,
+        "maxCustomerCount": 9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(There were many reservations last week. Things are going well.)",
+      "conditions": {
+        "minCustomerCount": 10,
+        "maxCustomerCount": 29
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The number of customers has increased considerably. I'm so busy I can barely keep up. Sales are doing well too!)",
+      "conditions": {
+        "minCustomerCount": 30,
+        "maxCustomerCount": 79
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(T-there are too many customers...! Even working all day every day, I can't handle them all... It's honestly exhausting, but sales are booming!)",
+      "conditions": {
+        "minCustomerCount": 80
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(There's still a lot of debt remaining. It's going to be a long road...)",
+      "conditions": {
+        "maxDebtPaidRatio": 0.3
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Repayment is going smoothly, but it's still just over half... I need to work harder.)",
+      "conditions": {
+        "minDebtPaidRatio": 0.3,
+        "maxDebtPaidRatio": 0.6
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I can almost pay off the debt. I need to put in more effort to earn money.)",
+      "conditions": {
+        "minDebtPaidRatio": 0.6,
+        "maxDebtPaidRatio": 0.9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The debt is completely paid off! I'm finally free...!)",
+      "conditions": {
+        "minDebtPaidRatio": 1.0
+      }
+    }
+  ]
+}

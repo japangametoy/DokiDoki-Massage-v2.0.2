@@ -1,0 +1,107 @@
+{
+  "title": "50% Debt Repayment Achievement",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...Phew. Finally paid off half the debt."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Yo! You still alive?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "T-Tatsu-nee!? What brings you here...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "What do you mean? I came to check on you, obviously.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "I heard you paid back half your debt?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Y-Yes! I've been working hard every day!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "I thought you'd skip town for sure, but you're doing good.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Never thought a scrawny guy like you would get this far.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "But it's still only half, yeah? Make sure you pay the rest.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Well... since you paid back half...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "I guess a little reward wouldn't hurt.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "A reward...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "How about I give you a massage, Tatsu-nee? You must be tired lately.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Huh? I'm getting a massage?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Yes. That's the reward. ...How about it?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Well, my shoulders have been stiff lately... I guess that's fine...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Give Tatsu-nee a massage",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}
