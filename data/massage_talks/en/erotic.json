@@ -1,0 +1,1655 @@
+{
+  "talks": {
+    "talk_sensitive": {
+      "topicName": "Sensitive Spots",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nana, do you have any particularly sensitive spots?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Huh...? W-why would you ask something like that...?",
+          "voiceFile": "talk_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Just as a reference for the treatment. I'll avoid any spots you're uncomfortable with."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "...My armpits and...neck...I flinch when they're touched...",
+          "voiceFile": "talk_sensitive_002"
+        }
+      ]
+    },
+    "talk_sports_bra": {
+      "topicName": "Sports Bra Talk",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you use a sports bra when you exercise?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "Oh, yes...I use a sports bra...",
+          "voiceFile": "talk_sports_bra_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "With that size...it must be hard to find something that fits, right?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Y-yes...I have to buy from stores that specialize in larger sizes...",
+          "voiceFile": "talk_sports_bra_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I see. When you run, they must bounce a lot, right?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...yes...everyone stares so it's embarrassing...",
+          "voiceFile": "talk_sports_bra_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(The guys in her class must be so lucky...!)"
+        }
+      ]
+    },
+    "talk_underwear": {
+      "topicName": "Panties Talk",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Let me guess what panties you're wearing today."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? W-why would you...!",
+          "voiceFile": "talk_underwear_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hmm, white...or pink...no...I'd say light blue?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "!!...H-how did you...",
+          "voiceFile": "talk_underwear_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ah, I was right."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Geez...please stop...this is so embarrassing...",
+          "voiceFile": "talk_underwear_003"
+        }
+      ]
+    },
+    "talk_embarrassing_memory": {
+      "topicName": "Embarrassing Experience",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "What's the most embarrassing thing that's ever happened to you?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Huh...well...",
+          "voiceFile": "talk_embarrassing_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You don't have to tell me if you don't want to..."
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I just want to know more about you..."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "{{playerName}}-san...",
+          "voiceFile": "talk_embarrassing_memory_002"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...during swimming class...my swimsuit...",
+          "voiceFile": "talk_embarrassing_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your swimsuit?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "It slipped a little...in front of everyone...and um...",
+          "voiceFile": "talk_embarrassing_memory_004"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your nipple popped out!?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "D-don't say it so loud...!",
+          "voiceFile": "talk_embarrassing_memory_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_03",
+          "text": "I don't want to remember it...",
+          "voiceFile": "talk_embarrassing_memory_006"
+        }
+      ]
+    },
+    "talk_body_growth": {
+      "topicName": "Body Development",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Your body's become more mature recently."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Huh...i-is that so...?",
+          "voiceFile": "talk_body_growth_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Your breasts got a bit bigger, didn't they?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "H-hey...! You've been looking at them...?",
+          "voiceFile": "talk_body_growth_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It's part of my job to notice body changes."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Geez...it's embarrassing...but they did get bigger recently...",
+          "voiceFile": "talk_body_growth_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It's puberty. Completely natural."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I can't talk about this with anyone...geez...",
+          "voiceFile": "talk_body_growth_004"
+        }
+      ]
+    },
+    "talk_sensitive_spot": {
+      "topicName": "Sensitive Body Parts",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "I noticed during the treatment that you react when I touch your neck."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...! Y-you noticed...?",
+          "voiceFile": "talk_sensitive_spot_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are there other sensitive spots?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "W-why would you ask that...",
+          "voiceFile": "talk_sensitive_spot_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "So I can be careful during treatments."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "My ears...and inner thighs...I can't handle those...",
+          "voiceFile": "talk_sensitive_spot_003"
+        }
+      ]
+    },
+    "talk_swimsuit": {
+      "topicName": "Swimsuit Troubles",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "What do you do during swimming class?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ah...that's...such a problem...",
+          "voiceFile": "talk_swimsuit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "The swimsuit size?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Yes...the school-issued one doesn't fit at all...",
+          "voiceFile": "talk_swimsuit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Did you get special permission?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "I did...but I still stand out...the boys stare at me...",
+          "voiceFile": "talk_swimsuit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That must be tough."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I want to skip swimming days...",
+          "voiceFile": "talk_swimsuit_004"
+        }
+      ]
+    },
+    "talk_male_experience": {
+      "topicName": "Romantic Experience",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Have you ever had a boyfriend?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? N-no...I haven't...",
+          "voiceFile": "talk_male_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Really? That's surprising."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Because...I get nervous just talking to guys...",
+          "voiceFile": "talk_male_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Really? You don't seem that way to me."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-that's...probably because...it's you, {{playerName}}-san...(whisper)",
+          "voiceFile": "talk_male_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hm?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "N-nothing...",
+          "voiceFile": "talk_male_experience_004"
+        }
+      ]
+    },
+    "talk_secret_habit": {
+      "topicName": "Secret Habits",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Have you been getting interested in sexual things lately?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? W-what are you talking about...?",
+          "voiceFile": "talk_secret_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "It's natural at your age."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "W-well...um...just a little...",
+          "voiceFile": "talk_secret_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "What kinds of things are you interested in?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Um...well...I read manga...but I don't really understand...",
+          "voiceFile": "talk_secret_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "That's part of learning too."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "But...it's scary and embarrassing...but I'm curious...",
+          "voiceFile": "talk_secret_habit_004"
+        }
+      ]
+    },
+    "talk_erotic_study": {
+      "topicName": "Erotic Learning",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Where do you learn about sexual things?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I-I don't learn about them...!",
+          "voiceFile": "talk_erotic_study_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But you said you were interested before."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Well...um...",
+          "voiceFile": "talk_erotic_study_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Do you watch videos online?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "S-sometimes...I read shoujo manga...",
+          "voiceFile": "talk_erotic_study_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "So you get excited from the sexy scenes in shoujo manga."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I-I don't get excited...! They just make my heart race...",
+          "voiceFile": "talk_erotic_study_004"
+        }
+      ]
+    },
+    "talk_bra_size_virgin": {
+      "topicName": "Bra Size",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, your breasts are almost spilling out of that treatment outfit."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!?",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "What cup size are you? They look quite large."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...well...H-cup...",
+          "voiceFile": "talk_bra_size_virgen_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "H-cup!? (No wonder they don't fit in that micro bikini...)"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "(I can even see her areolas...)"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "S-sorry...the size doesn't fit...",
+          "voiceFile": "talk_bra_size_virgen_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's fine, it's fine. That spilling-out look is kind of se...I mean, cute."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "?"
+        }
+      ]
+    },
+    "talk_bra_size_experienced": {
+      "topicName": "Bra Size",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, your breasts are almost spilling out of that treatment outfit."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!?",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "What cup size are you? They're pretty big."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...well...I-cup...",
+          "voiceFile": "talk_bra_size_experienced_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Oh, I-cup!? (No wonder a micro bikini can't contain them...)"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "(I can see her areolas...)"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "S-sorry...they keep getting bigger...",
+          "voiceFile": "talk_bra_size_experienced_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's fine, it's fine. That spilling-out look is kind of se...I mean, cute."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "?"
+        }
+      ]
+    },
+    "talk_breast_sensitivity": {
+      "topicName": "Breast Sensitivity",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Large breasts tend to have lymph congestion. It might be better to massage them directly."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "D-directly...!?",
+          "voiceFile": "talk_breast_sensitivity_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "With I-cups, your nipples must be quite sensitive too, right?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "W-why do you...know that...",
+          "voiceFile": "talk_breast_sensitivity_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "From experience. I can see your nipples are hard even through your clothes."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...! T-they're hard...!?",
+          "voiceFile": "talk_breast_sensitivity_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Yeah, they're stiff. I wonder what would happen if I touched them."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "P-please stop...this is so embarrassing...",
+          "voiceFile": "talk_breast_sensitivity_004"
+        }
+      ]
+    },
+    "talk_body_temperature": {
+      "topicName": "Rising Body Temperature",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your body's getting really hot, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "Oh...is it...?",
+          "voiceFile": "talk_body_temperature_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Especially your lower body. Is blood concentrating there?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "L-lower body...! Don't say things like that...",
+          "voiceFile": "talk_body_temperature_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your face is bright red too, and your whole body is flushed."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "It's embarrassing...my body's reacting on its own...",
+          "voiceFile": "talk_body_temperature_003"
+        }
+      ]
+    },
+    "talk_butt_shape": {
+      "topicName": "Butt Shape",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your butt is really firm and perky, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Huh...! M-my butt...?",
+          "voiceFile": "talk_butt_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's toned and nicely shaped."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "I-is it...?",
+          "voiceFile": "talk_butt_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "When I touch it, it's bouncy and soft."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! Don't touch it...!",
+          "voiceFile": "talk_butt_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "The crack is so deep too. Very sexy."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Geez...don't look there...",
+          "voiceFile": "talk_butt_shape_004"
+        }
+      ]
+    },
+    "talk_breast_bounce": {
+      "topicName": "Breast Bouncing",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your breasts have been bouncing all over the place during the treatment."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!? A-are they bouncing that much...?",
+          "voiceFile": "talk_breast_bounce_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "They're I-cups. Even the slightest movement makes them jiggle."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "It's embarrassing...even when I try to hold them down...",
+          "voiceFile": "talk_breast_bounce_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I can see your nipples moving with them. They're so stiff."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! You're watching that too...!?",
+          "voiceFile": "talk_breast_bounce_003"
+        }
+      ]
+    },
+    "talk_body_hair": {
+      "topicName": "Body Hair Talk",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I've been noticing something."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Y-yes...?",
+          "voiceFile": "talk_body_hair_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "That skimpy treatment outfit...I can see you're completely smooth down there."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "What...! Y-you can see...!?",
+          "voiceFile": "talk_body_hair_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You have no hair. Did you shave? Or is it natural?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "I-it's natural...I don't have hair there...",
+          "voiceFile": "talk_body_hair_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Wow, that's hot. I wonder what it feels like to touch."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hyah...! D-don't touch it...!",
+          "voiceFile": "talk_body_hair_004"
+        }
+      ]
+    },
+    "talk_breathing_change": {
+      "topicName": "Breathing Changes",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, your breathing is getting heavy."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!? N-no it's not...",
+          "voiceFile": "talk_breathing_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your breath is hot too. You're getting turned on, aren't you?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "N-no...! It's just hot...",
+          "voiceFile": "talk_breathing_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You're letting out little moans too. I can hear them."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "T-those...just come out...I can't help it...",
+          "voiceFile": "talk_breathing_change_003"
+        }
+      ]
+    },
+    "talk_twitch_reaction": {
+      "topicName": "Twitching Reactions",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You twitch every time I touch you. Are you that sensitive?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hyah...! N-not really...",
+          "voiceFile": "talk_twitch_reaction_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your whole body shudders when I just touch your inner thigh."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "B-but...it tickles...",
+          "voiceFile": "talk_twitch_reaction_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's not just ticklish, is it? Your hips are lifting up."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ugh...my body reacts on its own...",
+          "voiceFile": "talk_twitch_reaction_003"
+        }
+      ]
+    },
+    "talk_nipple_change": {
+      "topicName": "Nipple Color Change",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Huh? Nana, isn't the color of your nipples changing?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? T-that can't be...",
+          "voiceFile": "talk_nipple_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "They were light pink before, but now they're darker pink."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "W-well...um...",
+          "voiceFile": "talk_nipple_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "They're engorged. You're feeling it, aren't you?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "N-no...! It's just...the treatment improved blood flow...",
+          "voiceFile": "talk_nipple_change_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hmm, but the tips are all puffy and swollen?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Geez...! Don't stare so much...it's embarrassing...",
+          "voiceFile": "talk_nipple_change_004"
+        }
+      ]
+    },
+    "talk_voice_suppression": {
+      "topicName": "Voice Suppression",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You're biting your lip. Are you trying to hold back your voice?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...! N-not really...",
+          "voiceFile": "talk_voice_suppression_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I can see you desperately holding it in going \"Mmm! Mmm!\""
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "B-because...it'd be embarrassing if I made sounds...",
+          "voiceFile": "talk_voice_suppression_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You don't have to hold back. I want to hear your cute voice."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "N-no way...I won't make sounds...!",
+          "voiceFile": "talk_voice_suppression_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But it's already about to escape from your throat, isn't it?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh...I'm at my limit...",
+          "voiceFile": "talk_voice_suppression_004"
+        }
+      ]
+    },
+    "talk_inner_thigh": {
+      "topicName": "Inner Thigh",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your inner thighs are all slippery. This isn't sweat, is it?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!? I-it's sweat...I think it's sweat...",
+          "voiceFile": "talk_inner_thigh_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But it looks like it's dripping from above?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-that's...um...",
+          "voiceFile": "talk_inner_thigh_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's sticky to the touch. This is your pussy juice, isn't it?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Geez...don't say it...it's so embarrassing...",
+          "voiceFile": "talk_inner_thigh_003"
+        }
+      ]
+    },
+    "talk_wet_easily": {
+      "topicName": "Getting Wet Easily",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, the crotch area of your treatment outfit is..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? W-what about it...?",
+          "voiceFile": "talk_wet_easily_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's wet, isn't it? Is it sweat?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "N-no...",
+          "voiceFile": "talk_wet_easily_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Are you feeling it? Do you get wet easily?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "...I-I get wet...quickly...it's embarrassing...",
+          "voiceFile": "talk_wet_easily_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Wow, you're sensitive. You have a sexy body."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh...",
+          "voiceFile": "talk_wet_easily_004"
+        }
+      ]
+    },
+    "talk_girl_smell": {
+      "topicName": "Girl's Scent",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You smell really sweet, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Huh...!? A-a smell...?",
+          "voiceFile": "talk_girl_smell_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "That sweet scent unique to girls. It supposedly gets stronger when you're aroused."
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Especially around your crotch...probably because you're wet?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "T-that's not...!",
+          "voiceFile": "talk_girl_smell_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But I don't dislike it. It actually turns me on."
+        }
+      ]
+    },
+    "talk_clit_size": {
+      "topicName": "Clitoris Size",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, your treatment outfit is so thin I can see the shape..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Huh...!? W-what shape...?",
+          "voiceFile": "talk_clit_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your clit is pretty big. It's all puffy."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! D-don't look there...",
+          "voiceFile": "talk_clit_size_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's pretty developed. Looks sensitive. Do you touch yourself there?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I...I don't...",
+          "voiceFile": "talk_clit_size_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But it's twitching right now, isn't it? Looks really sensitive."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Geez...this is too embarrassing...",
+          "voiceFile": "talk_clit_size_004"
+        }
+      ]
+    },
+    "talk_pussy_shape": {
+      "topicName": "Pussy Shape",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your pussy has such a pretty shape, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!?",
+          "voiceFile": "talk_pussy_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I can see the slit clearly. Looks really tight."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Y-you can see it...!? No...that's embarrassing...",
+          "voiceFile": "talk_pussy_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your labia are small and a cute pink color."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh...don't look...!",
+          "voiceFile": "talk_pussy_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But the entrance is twitching. It looks like it wants something."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "N-no...! It's not like that...",
+          "voiceFile": "talk_pussy_shape_004"
+        }
+      ]
+    },
+    "talk_love_juice": {
+      "topicName": "Love Juice Amount",
+      "trustEffect": 0,
+      "developEffect": 10,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, there's a stain on your treatment outfit."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What...!? A-a stain...?",
+          "voiceFile": "talk_love_juice_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "You're producing so much pussy juice. It's all slippery."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "P-pussy juice...! No...there isn't any...!",
+          "voiceFile": "talk_love_juice_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I can see it forming strings. You get wet so easily."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ugh...it's my body...I get wet so fast...",
+          "voiceFile": "talk_love_juice_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your pussy is making wet sounds. What a lewd body."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "P-please stop...! I'm so embarrassed I could die...",
+          "voiceFile": "talk_love_juice_004"
+        }
+      ]
+    },
+    "talk_anal": {
+      "topicName": "Anal Color",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I saw it when you were lying on your stomach, but your asshole is a pretty pink color too."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? M-my asshole...! You were looking!?",
+          "voiceFile": "talk_anal_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "It's so tight and beautifully shaped."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "E-even there...how embarrassing...!",
+          "voiceFile": "talk_anal_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "But it's been twitching. It moves when you get excited, huh?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I-it's not moving...! Please don't look...!",
+          "voiceFile": "talk_anal_003"
+        }
+      ]
+    },
+    "talk_masturbation": {
+      "topicName": "About Masturbation",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "How do you do it when you're alone?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "What!? A-alone...what are you talking about...?",
+          "voiceFile": "talk_musturbation_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Masturbation. Where do you touch?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "That's...so embarrassing...",
+          "voiceFile": "talk_musturbation_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Your clit? Or do you put fingers inside?"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "..."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "W-well...the top part...just a little...",
+          "voiceFile": "talk_musturbation_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I see, you're a clit person. How long does it take you to cum?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Geez...! Don't ask things like that...",
+          "voiceFile": "talk_musturbation_004"
+        }
+      ]
+    },
+    "talk_health_exam_experience": {
+      "topicName": "First Time at Health Exam",
+      "trustEffect": 2,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "The last health exam was pretty intense, wasn't it?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Y-yes...they did so many things...",
+          "voiceFile": "talk_health_exam_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Even though it was your first time, you felt good?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "At first I didn't like it but...my body just...",
+          "voiceFile": "talk_health_exam_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "They took your virginity, didn't they?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "It was for the exam so it couldn't be helped...but...",
+          "voiceFile": "talk_health_exam_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Has your body become more sensitive since then?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Yes...I've been strange ever since...",
+          "voiceFile": "talk_health_exam_experience_004"
+        }
+      ]
+    },
+    "talk_developed_sensitive": {
+      "topicName": "Sensitized Body",
+      "trustEffect": 1,
+      "developEffect": 6,
+      "alertnessEffect": -7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Since the health exam, which parts have become most sensitive?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "My nipples and...down there...",
+          "voiceFile": "talk_developed_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tell me more details?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "When they're touched, I immediately twitch...",
+          "voiceFile": "talk_developed_sensitive_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Do you get wet more easily too?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Yes...right away...it's embarrassing...",
+          "voiceFile": "talk_developed_sensitive_003"
+        }
+      ]
+    },
+    "talk_virgin_anxiety_curiosity": {
+      "topicName": "Feelings About First Time",
+      "trustEffect": 2,
+      "developEffect": 4,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are you interested in sexual things?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "N-no way...! But...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Are you scared? Or curious?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Both...I'm scared but I want to know...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "How would you want it done?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Gently...I want it to be gentle...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_003"
+        }
+      ]
+    },
+    "talk_virgin_pure_body": {
+      "topicName": "Inexperienced Body's Reaction",
+      "trustEffect": 1,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "A virgin's body is supposedly very sensitive."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Is that so...?",
+          "voiceFile": "talk_virgen_pure_body_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Haven't you become more sensitive lately too, Nana?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "During massages...I feel strange...",
+          "voiceFile": "talk_virgen_pure_body_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "That's normal. It's proof of your purity."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Really...? That's a relief...",
+          "voiceFile": "talk_virgen_pure_body_003"
+        }
+      ]
+    }
+  }
+}
