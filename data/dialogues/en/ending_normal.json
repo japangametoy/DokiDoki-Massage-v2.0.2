@@ -1,0 +1,191 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Six months later.\nThe clinic was operating as a community-rooted establishment."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "Sensei, hello. Thank you for taking care of me again this month.",
+      "voiceFile": "ending_normal_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Nana, welcome. How are you feeling?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "My shoulder stiffness has been bad again lately...",
+      "voiceFile": "ending_normal_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Your treatments are really the most effective, sensei.",
+      "voiceFile": "ending_normal_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well, this is a stable relationship in its own way...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I'm glad to hear that. The 60-minute course today?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Yes, please.",
+      "voiceFile": "ending_normal_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... should I wear that special outfit?",
+      "voiceFile": "ending_normal_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Yes, wearing it increases the effectiveness."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Understood. I was embarrassed at first, but I'm used to it now...",
+      "voiceFile": "ending_normal_006"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──During treatment"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "Mmm... that feels good...",
+      "voiceFile": "ending_normal_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Your shoulder stiffness has loosened up quite a bit."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Your hands are truly magical, sensei.",
+      "voiceFile": "ending_normal_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I could have been more aggressive... but this level is safer...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──After treatment"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "I feel so much better. Thank you very much.",
+      "voiceFile": "ending_normal_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I'm glad to hear it."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Sensei, may I book next month's appointment?",
+      "voiceFile": "ending_normal_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Of course. How about the second Tuesday?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "Yes, please book me for that day.",
+      "voiceFile": "ending_normal_011"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Thanks to you, sensei, I feel better every month.",
+      "voiceFile": "ending_normal_012"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Having regular customers like you really helps me out."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "Oh no... I'm the one who's always grateful.",
+      "voiceFile": "ending_normal_013"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Several more months later"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Sensei, the shop has been busy lately.",
+      "voiceFile": "ending_normal_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Fortunately yes. More people like you have started coming regularly."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "That's great. It's because you're skilled, sensei.",
+      "voiceFile": "ending_normal_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Thank you. I'm happy to hear you say that."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(This might be a good relationship in its own way...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "While maintaining an appropriate distance, a good relationship continues.\nThat too might be one form of happiness."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【NORMAL END - Good Customer Relationship】",
+      "triggerEnding": "normal"
+    }
+  ]
+}
