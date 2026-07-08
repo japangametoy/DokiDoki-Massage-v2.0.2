@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": "greeting",
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Welcome♡ Are you looking for something?"
+    },
+    {
+      "id": "after_greeting",
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "If you find anything interesting, please feel free to ask♡"
+    }
+  ]
+}

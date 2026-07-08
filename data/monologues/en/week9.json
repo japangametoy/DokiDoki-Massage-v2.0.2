@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 9 finished... things are going so well it's almost scary)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Referrals from Nana-chan's friends have been increasing)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Many clients come saying 'Nana-chan was raving about this place')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I spend time on this week)"
+    }
+  ]
+}

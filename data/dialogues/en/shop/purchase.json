@@ -1,0 +1,38 @@
+{
+  "purchase_success": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Thank you♡ You've chosen such a wonderful item♡"
+      }
+    ]
+  },
+  "purchase_insufficient_money": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Oh, it seems you don't have enough money...\nPlease come back when you've saved up more♡"
+      }
+    ]
+  },
+  "item_cancel": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Oh? You're not purchasing it?\nWe'll be here waiting whenever you're ready♡"
+      }
+    ]
+  },
+  "farewell": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Please come back again♡\nWe'll have perfect items waiting for you next time♡"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 11... it's been almost 3 months since opening...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan still comes every week as a regular)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The debt repayment deadline is coming soon. I need to make a final push)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well then, what should I do this week...)"
+    }
+  ]
+}

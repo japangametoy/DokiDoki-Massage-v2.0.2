@@ -1,0 +1,30 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Week 10... finally reached double digits)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Thanks to Nana-chan spreading the word, the clinic is thriving)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Apparently today's reputation is 'treatments that appear in my dreams')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Well, I am using special techniques... though that's a trade secret)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I need to make solid plans and act this week too)"
+    }
+  ]
+}
