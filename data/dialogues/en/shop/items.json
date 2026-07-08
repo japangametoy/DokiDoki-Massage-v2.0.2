@@ -1,0 +1,371 @@
+{
+  "lotion_basic": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Massage lotion♡ This makes everything so smooth♡\nI'll explain how to use it in detail♡"
+      }
+    ]
+  },
+  "secret_book": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "The Twintail Cult Scripture...? Hehe♡ You're bolder than I thought♡\nThis book has very naughty things written in it♡"
+      }
+    ]
+  },
+  "pillow_comfort": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Comfort pillow♡ This pillow is super fluffy and feels great♡\nIt greatly improves sleep quality♡"
+      }
+    ]
+  },
+  "medical_equipment": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Lab coat and anatomy model set♡\nWearing this makes you look like an expert therapist♡"
+      }
+    ]
+  },
+  "drop_bed": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Wow♡ Are you considering the drop bed?\nIt's a professional-grade luxury item, but it really makes a difference in treatment effectiveness♡"
+      }
+    ]
+  },
+  "relax_oil": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Relaxation oil♡ It has a nice scent that calms the mind♡\nPerfect for customers who get nervous easily♡"
+      }
+    ]
+  },
+  "energy_drink": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Energy drink♡\nDrink this and you can treat patients all day long with full energy♡"
+      }
+    ]
+  },
+  "sleep_powder": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Natural sleep powder♡ It has a gentle lavender scent♡\nYou'll fall into deep sleep right away♡"
+      }
+    ]
+  },
+  "chili_powder": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Natural chili powder♡ It's a powerful wake-up aid, but the stimulation is quite strong, so please be very careful how you use it♡"
+      }
+    ]
+  },
+  "aphrodisiac_herb": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Um... this is the secret herb extract♡\nIt has a very powerful effect, so please be careful when using it♡"
+      }
+    ]
+  },
+  "beast_charge_drink": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Hehe♡ Beast Charge Z...♡\nAfter using it, you'll get... energized right away♡"
+      }
+    ]
+  },
+  "sleep_guard_tablet": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Sleep Keep tablet♡\nOnce you fall asleep, you'll stay in deep sleep the whole time♡"
+      }
+    ]
+  },
+  "climax_blocker": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Edging lotion...♡\nApply this and no matter how good it feels, you won't be able to climax...♡"
+      }
+    ]
+  },
+  "incense_toroinkо": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "The aphrodisiac incense 'Toro Inko'...♡\nThe sweet fragrance fills the room... and makes you very sensitive♡"
+      }
+    ]
+  },
+  "part_time_magazine": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Part-time job magazine♡ It has information about great jobs♡\nYou'll have more job options♡"
+      }
+    ]
+  },
+  "keiba_magazine": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Horse racing magazine♡ It's packed with the latest racehorse data♡\nYour chances of hitting it big are expanding♡"
+      }
+    ]
+  },
+  "erotic_manual_nipple": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "...The Erotic Massage Encyclopedia, nipple edition♡\nSince it's a technical book, study it thoroughly... and make your customers happy♡"
+      }
+    ]
+  },
+  "erotic_manual_vagina": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Wow...♡ The Erotic Massage Encyclopedia, vaginal edition♡ This is quite an advanced book♡\nStudy this thoroughly... and satisfy your customers♡"
+      }
+    ]
+  },
+  "erotic_manual_clitoris": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "The Erotic Massage Encyclopedia... clitoris edition♡ This requires delicate techniques♡\nStudy hard and please your customers♡"
+      }
+    ]
+  },
+  "erotic_manual_anal": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "The Erotic Massage Encyclopedia... anal edition♡ It requires quite advanced techniques, but...\nA first-class {{playerName}} needs this knowledge♡ Good luck♡"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Flower bouquet♡ A classic gift for women♡\nIs it a present for someone special?"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Kyoto Uji matcha chocolate♡ It looks so delicious♡\nAn irresistible gift for matcha lovers♡"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Headphones♡ The perfect present for music lovers♡\nIt's a bit pricey, but the sound quality is truly amazing♡"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Music box♡ Such a romantic and lovely gift♡\nThe gentle melody heals the heart♡"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Posture support brace♡ A caring gift for health♡\nPeople who study or do desk work for long hours will appreciate it♡"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Wooden book stand♡ A thoughtful gift for book lovers♡\nThe warmth of natural wood is wonderful♡"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Black lace lingerie set...♡\nIt's so mature and beautiful♡ Is it for someone special?♡"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Pink rotor...♡ It's small and cute, but the vibrations are super powerful♡\nIt's one of my favorites too...♡"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "This is the therapist's...? It's so... impressive in size♡ Even the veins are reproduced...♡\nIs it a present for someone special? They'll surely be delighted♡"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "This series is really popular♡ The treatment scenes are so realistic...\nThe actresses seem to be really feeling it... just watching makes my heart race♡"
+      }
+    ]
+  },
+  "banner_flag": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Banner flag! Setting this up makes it easier for passersby to notice♡\nAffordable price with excellent customer attraction effect!"
+      }
+    ]
+  },
+  "plant_decoration": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Potted plants really improve the shop atmosphere♡\nCustomers can relax, and the repeat rate goes up! They're easy to care for too♡"
+      }
+    ]
+  },
+  "premium_speaker": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Premium speaker. The sound quality is completely different♡\nPlay healing music and it'll feel like a luxury salon!"
+      }
+    ]
+  },
+  "air_purifier": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Air purifier is an essential item! With Plasmacluster technology, the air becomes super clean♡\nA clean appearance greatly increases customer trust!"
+      }
+    ]
+  },
+  "led_signboard": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "LED sign is the best investment! It shines bright even at night and really stands out♡\nI've heard shops that installed one saw a huge increase in sales!"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Wow, a cute teddy bear plush♡\nAll girls love them♡ It must feel reassuring to hug while sleeping♡"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Aroma diffuser♡ A very practical gift♡\nThe room fills with a nice fragrance, and the relaxation effect is outstanding♡"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Eye mask♡ Perfect for soothing tired eyes from studying♡\nWith lavender scent, it improves sleep quality too♡"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "This is a luxury brand...\nAnyone would be happy to receive such a wonderful present♡"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Electric massager♡ This is quite a powerful type♡\nIt can be used... all over the body...♡"
+      }
+    ]
+  },
+  "gift_diamond_ring": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Diamond ring♡ It's so beautiful...♡\nAre you giving it to someone special?"
+      }
+    ]
+  }
+}

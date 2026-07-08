@@ -1,0 +1,481 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──The morning of the third week.\nLast week's massage must have gone well—I'm starting to feel Nana's trust in me."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(She's come two weeks in a row... Could this mean...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(No, it's too early to tell. But she definitely likes my treatments.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Maybe today... I can go a little further...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But first, let me check last week's finances...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(…As I thought, the fixed costs are too high. At this rate, I'm running in the red, let alone paying off my debt...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The door chime rang. Is that Nana?)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hey, you in?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tatsu...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Shit... it's Tatsu the loan shark. She's here to collect on the money I borrowed last month...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Still, those are some incredible breasts... If they're that big, her shoulders must be killing her...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "What's with that face? You don't look too happy to see a customer.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "N-no, that's not...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "So? You got this month's payment ready, right?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_choice",
+      "character": "player",
+      "expression": "alert",
+      "text": "W-well... I need a little more time...",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Make excuses",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_excuse"
+        },
+        {
+          "label": "Promise to pay by next week",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_promise"
+        },
+        {
+          "label": "Ask to borrow an additional 100,000",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_borrow"
+        }
+      ]
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "Well, I don't have many customers... and with this recession...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "I don't wanna hear your excuses. I'm telling you to cough up the money.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "I-I'm sorry...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_promise",
+      "character": "player",
+      "expression": "alert",
+      "text": "I'll definitely pay the full amount by next week!",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Next week? You think you got time to be saying that?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "I-I'm sorry...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_borrow",
+      "character": "player",
+      "expression": "alert",
+      "text": "Actually... I'd like to borrow an additional 100,000...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Huh? You can't even pay back what you owe and you wanna borrow more?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...Fine. But the interest doubles. If you can't pay next time... you know what happens, right?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tatsu pulls out a wad of bills from her chest pocket. As she leans forward, I can see her cleavage...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Here, 100,000. That brings your debt to 600,000.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "You borrowed 100,000G",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register",
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_threat",
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...I just came to check on you today. Next time, there won't be any mercy.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "If you can't pay next time, I'll have you sell your organs. You can live with just one kidney, right?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(That's terrifying... But still, Tatsu's shoulders look so stiff. Supporting those heavy breasts...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "See ya. Better be prepared for when I come next time.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The sound of the door closing... Hah... I got threatened again...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(But even Tatsu looks like she needs treatment... With those huge boobs, her shoulder pain must be terrible... Wait, what am I thinking?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The door chime again... This time it must be Nana, right?)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Good morning! Please take care of me again today.",
+      "characterImage": null,
+      "voiceFile": "story_day3_001"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "I passed a really angry-looking woman just now... Was she a customer?",
+      "characterImage": null,
+      "voiceFile": "story_day3_002"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "Ah, yeah... Just an acquaintance who stopped by. Don't worry about it."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I see... You look a bit pale though. Are you okay?",
+      "characterImage": null,
+      "voiceFile": "story_day3_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "I'm fine. I'm happy you're worried about me, Nana."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Anyway, thanks for coming again today. How are you feeling?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Thanks to last week's massage, I slept really well. My shoulders feel good too...",
+      "characterImage": null,
+      "voiceFile": "story_day3_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "But today... my lower back feels a bit heavy...",
+      "characterImage": null,
+      "voiceFile": "story_day3_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Your lower back, huh. That's concerning. What kind of heaviness is it?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Well... it's a dull feeling, and sometimes it throbs... It feels better when I'm sitting.",
+      "characterImage": null,
+      "voiceFile": "story_day3_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Also... around my inner thighs, it feels kind of stiff...",
+      "characterImage": null,
+      "voiceFile": "story_day3_007"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "I see. Stiffness from the lower back to the thighs. I'll need to work on that carefully.",
+      "choices": [
+        {
+          "label": "It might be pelvic misalignment",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "That's a sensitive area",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "Lower back pain... could it be...",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "check_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Pelvic misalignment...?",
+      "characterImage": null,
+      "voiceFile": "story_day3_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yeah. Long hours of sitting or postural habits can cause the pelvis to become misaligned, affecting the lower back and thighs."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I see... I have been sitting and studying for long periods recently.",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_009"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "S-sensitive... D-don't say that...",
+      "characterImage": null,
+      "voiceFile": "story_day3_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, no, I just meant it's an area with concentrated nerves, so it's sensitive to stimulation."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "But that's exactly why proper care there can feel really good."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "F-feel good... Is that so...",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_011"
+    },
+    {
+      "id": "check_path",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Lower back pain... Did you do any intense exercise recently?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Huh? N-no... no particular exercise...",
+      "characterImage": null,
+      "voiceFile": "story_day3_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Then maybe staying up late... or some awkward position in bed...?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "W-why are you asking that!?",
+      "characterImage": null,
+      "voiceFile": "story_day3_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well, the causes of back pain can be unexpected. For example... do you have a boyfriend?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I don't...",
+      "characterImage": null,
+      "voiceFile": "story_day3_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Sorry, sorry. But sometimes young women's back pain can be from... intense nights... you know"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Wha...! Don't say weird things like that...!",
+      "characterImage": null,
+      "voiceFile": "story_day3_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Right, of course. Nana's a serious girl after all.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Alright then, can you change into the usual treatment wear?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... I'm getting used to it now...",
+      "characterImage": null,
+      "voiceFile": "story_day3_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(It was really embarrassing at first... but maybe this outfit makes it easier to massage...)",
+      "characterImage": null,
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day3_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I'm changed. Please take care of me today.",
+      "characterImage": null,
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day3_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Thanks. I'll take good care of your lower back area today."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Alright, let's begin the treatment."
+    }
+  ]
+}

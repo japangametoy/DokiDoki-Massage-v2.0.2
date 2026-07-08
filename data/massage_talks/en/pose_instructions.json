@@ -1,0 +1,470 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "Ask her to lie on her back",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Okay Nana, can you lie on your back now? I want to work on you from the front."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...Yes, understood...",
+          "voiceFile": "pose_orientation_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "Ask her to lie face down",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you lie face down now? I want to work on your back and shoulder blades."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...Yes...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "Ask her to lie on her side",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you turn on your side? I want to work on you from the side."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...Yes, on my side...",
+          "voiceFile": "pose_orientation_side_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "Ask her to raise her arms",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you raise your arms up? I want to work on your armpits and upper arms."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Like this?",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yes, just like that. Thank you."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "Ask her to lower her arms",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Now you can lower your arms and relax."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...Yes...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "Ask her to raise her arms (side view)",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you raise your arm? I want to massage your armpit and stomach area."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Yes, like this?",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yes, just like that. Thanks."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "Ask her to lower her arms (side view)",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "You can lower your arm and relax."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...Yes...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "Ask her to press her chest (paizuri pose)",
+      "category": "Special Pose",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you bring your arms in, kind of pressing your chest together? I want to massage your decolletage."
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_01",
+          "text": "Eh... m-my chest...? L-like this...?",
+          "voiceFile": "pose_pose_arm_paizuri_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yes, that position. Thank you."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "Ask her to spread her legs",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Next I want to work on your inner thighs..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Could you spread your legs a bit?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Understood...",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "Ask her to spread her legs",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Next I want to work on your inner thighs..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Could you spread your legs a bit?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Understood...",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "Ask her to close her legs",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you close your legs?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "Yes...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "Ask her to close her legs",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you close your legs?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "Yes...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "Ask her to raise her hips and spread her legs",
+      "category": "Special Pose",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Can you raise your hips, kind of like kneeling? I want to focus on your lower back area."
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_01",
+          "text": "Eh... th-this is such an embarrassing position...",
+          "voiceFile": "pose_pose_leg_hipuup_open_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "It's for the treatment. Thank you."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "Ask her to return to a comfortable position",
+      "category": "Leg Position",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Okay, you can get back into a comfortable position now."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "Okay...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "Wake Nana up",
+      "category": "Other",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nana, can you wake up for me?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleeping_01",
+          "text": "Nn... fwaa... ah, sorry... I fell asleep...",
+          "voiceFile": "pose_wake_up_001"
+        }
+      ]
+    }
+  ]
+}

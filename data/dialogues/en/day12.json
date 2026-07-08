@@ -1,0 +1,408 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 12th week.\nThe effects of the treatment have finally begun to affect Nana's daily life."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana's body has become incredibly sensitive...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Maybe it's time to advance to the next stage...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "G-good... morning...",
+      "voiceFile": "story_day12_001"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Oh? You look especially flushed today..."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Um... it was hard just getting here today...",
+      "voiceFile": "story_day12_002"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(She's become that sensitive just from walking...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "With every step... somehow... I can't put strength in my legs...",
+      "voiceFile": "story_day12_003"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "That must have been difficult."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I had to rest many times along the way... it's embarrassing...",
+      "voiceFile": "story_day12_004"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Needing to rest that frequently...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sensei... um... I have an important report...",
+      "voiceFile": "story_day12_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "What? Don't tell me you're pregnant?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "N-no, that's not it!",
+      "voiceFile": "story_day12_006"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "But... it might be close to that...",
+      "voiceFile": "story_day12_007"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "What!?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Lately... my breasts are swollen... and feel strange...",
+      "voiceFile": "story_day12_008"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Your breasts!? (That's unexpected! Wonderful!)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "When I touch them... they're incredibly sensitive...",
+      "voiceFile": "story_day12_009"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Even my school uniform... feels tight...",
+      "voiceFile": "story_day12_010"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "That's wonderful! It's the ultimate state of relaxation!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "R-relaxation!?",
+      "voiceFile": "story_day12_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! Your body has recognized the 'climaxing state' as the optimal health condition."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "In other words, Nana's body is trying to maintain peak condition at all times."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I-is that so... but my bra is so tight...",
+      "voiceFile": "story_day12_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Today... um... I couldn't wear one...",
+      "voiceFile": "story_day12_013"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(No bra... really!?)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Also... there was a problem at school...",
+      "voiceFile": "story_day12_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Again?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "In P.E. class... when we played volleyball...",
+      "voiceFile": "story_day12_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "The moment I landed after jumping... I let out a squeal...!",
+      "voiceFile": "story_day12_016"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "From landing after a jump?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "The vibration... resonated deep inside my body...",
+      "voiceFile": "story_day12_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Running was no good either... every time my thighs rubbed... nnh!...",
+      "voiceFile": "story_day12_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Everyone asked 'Tanaka-san, did you get a cramp?'...",
+      "voiceFile": "story_day12_019"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(She climaxes just from exercising...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I'm scared of P.E. class now...",
+      "voiceFile": "story_day12_020"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "That is indeed troublesome."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Sensei... what should I do...?",
+      "voiceFile": "story_day12_021"
+    },
+    {
+      "id": "choice_massage12_final",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "I see. Is today finally the final stage?",
+      "choices": [
+        {
+          "label": "Going further is dangerous, let's do normal treatment",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "safe_ending"
+        },
+        {
+          "label": "Let's finish with the complete awakening course",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "awakening_ending"
+        },
+        {
+          "label": "Let's unlock the ultimate secret technique 'Infinite Climax Hell'",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "ultimate_ending"
+        }
+      ]
+    },
+    {
+      "id": "safe_ending",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Normal treatment...?",
+      "voiceFile": "story_day12_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. At this rate it will interfere with your daily life."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "But don't worry. We can return to this anytime."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "I-if that's the case... I feel a bit relieved...",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_023"
+    },
+    {
+      "id": "awakening_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Complete awakening!?",
+      "voiceFile": "story_day12_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! I'll draw out 100% of your body's potential!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "It's already hard now... if it gets worse...",
+      "voiceFile": "story_day12_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay! Trust me!",
+      "next": "final_treatment"
+    },
+    {
+      "id": "ultimate_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "I-Infinite Climax Hell!?",
+      "voiceFile": "story_day12_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes! Once it starts, it won't stop - the ultimate treatment!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-that sounds... scary...",
+      "voiceFile": "story_day12_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Don't worry! If you pass out, I'll stop temporarily!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Passing out is already assumed!?",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_028"
+    },
+    {
+      "id": "final_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, let's prepare for the final treatment."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Final... you mean?",
+      "voiceFile": "story_day12_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "No, I mean the greatest. I intend for you to keep coming forever."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Th-thank goodness... I can't live a normal life without {{playerName}}-san...",
+      "voiceFile": "story_day12_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_nervoussmile",
+      "text": "(Guaranteed customer for life... just as planned!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, could you change?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes...",
+      "voiceFile": "story_day12_031"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Just entering this room and my body automatically...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day12_032"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "I-I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day12_033"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(She looks like she's at her limit already... what a sight...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "P-please don't stare so much... it's embarrassing...",
+      "voiceFile": "story_day12_034"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "It's okay."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Now, let's begin the greatest treatment ever."
+    }
+  ]
+}

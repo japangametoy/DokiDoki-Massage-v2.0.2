@@ -1,0 +1,357 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Morning of the 9th week.\nMy relationship with Nana has completely transcended the framework of therapist and customer."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(9 weeks... Nana's body has fully blossomed. And her heart too...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Good morning... sensei...",
+      "voiceFile": "story_day9_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Good morning, Nana. You look well today."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "That's... probably because I slept well last night...",
+      "voiceFile": "story_day9_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "You slept well? That's good."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... lately, my body relaxes more easily...",
+      "voiceFile": "story_day9_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "But still, I want to receive your treatment, sensei...",
+      "voiceFile": "story_day9_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's honest of you. Honest Nana like this makes the treatment worthwhile."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Your treatment is... really special, sensei...",
+      "voiceFile": "story_day9_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's because your body perfectly accepts my treatment, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "My body has become... unable to be satisfied without your hands, sensei...",
+      "voiceFile": "story_day9_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She's completely dependent on my treatment... this is the perfect state.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... I have a request today...",
+      "voiceFile": "story_day9_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "What is it?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I want you to... treat me more... intensely...",
+      "voiceFile": "story_day9_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Last time you were gentle with me but... today I want more...",
+      "voiceFile": "story_day9_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I want you to... press hard... intensely...",
+      "voiceFile": "story_day9_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Intensely? Are you sure you can handle it that strong?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Lately, gentle treatment alone... isn't enough...",
+      "voiceFile": "story_day9_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I've started wanting... stronger stimulation...",
+      "voiceFile": "story_day9_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "That's a wonderful change. It's proof you're facing your body honestly."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "It's thanks to you, sensei... You awakened my body...",
+      "voiceFile": "story_day9_013"
+    },
+    {
+      "id": "choice_massage9",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "I've received your request, Nana.",
+      "choices": [
+        {
+          "label": "But don't push yourself too hard",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "careful_path"
+        },
+        {
+          "label": "Today I'll go as intense as you can endure",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "limit_path"
+        },
+        {
+          "label": "You're completely my exclusive body now",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "careful_path",
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "Yes... you're kind, sensei.",
+      "voiceFile": "story_day9_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "You're an important customer, Nana. As a professional, I need to care for you properly.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "limit_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "As intense as I can endure...?",
+      "voiceFile": "story_day9_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. With the intensity you seek, I'll give you the most intense treatment ever."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Y-yes... please...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_016"
+    },
+    {
+      "id": "mine_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "You're completely my exclusive body now. You can't be satisfied without my treatment, right?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Y-your exclusive...?",
+      "voiceFile": "story_day9_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Saying it like that... is embarrassing...",
+      "voiceFile": "story_day9_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "But it's the truth, isn't it? Your body only responds to me now."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...That might be... true...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_019"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... I have one more request...",
+      "voiceFile": "story_day9_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "What?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Today... that special outfit... do you have anything even smaller...?",
+      "voiceFile": "story_day9_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Even smaller?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Yes... I want to expose more skin...",
+      "voiceFile": "story_day9_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "I want you to see everything, sensei... and touch everything...",
+      "voiceFile": "story_day9_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(She's asking for more exposure herself... she's been completely developed.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "If you're going that far, how about no outfit at all?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Huh...? T-that's...",
+      "voiceFile": "story_day9_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "That's still... too embarrassing...",
+      "voiceFile": "story_day9_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Just kidding. But since you're asking, I'll look for something smaller next time."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "R-really...? Thank you so much...",
+      "voiceFile": "story_day9_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Well then, for today let's go with the usual outfit."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(The usual outfit... isn't enough to satisfy me anymore...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_027"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(I want more... to be seen more... to be touched more... I'm a little... scared of myself...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_028"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "I-I've changed...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day9_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Even though I should be used to seeing it... Nana's developed body is truly captivating...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sensei... please take care of me today too...",
+      "voiceFile": "story_day9_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Perfect. You're truly beautiful, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Th-thank you...",
+      "voiceFile": "story_day9_031"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "...Please... Today I want... a special treatment...",
+      "voiceFile": "story_day9_032"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yes. Today I'll treat you as deeply as you desire. Are you ready?"
+    }
+  ]
+}

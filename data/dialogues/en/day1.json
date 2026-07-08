@@ -1,0 +1,411 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(It was my dream... to open my own 'Erogenous Massage Clinic.')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(I wrote up a convincing theory, built a website, and paid a fortune to SEO companies.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Of course I distributed flyers too. 'Immoral Wave Therapy.' I was serious about this.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......But the number of appointments on opening day... just one.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......Rejected by banks and consumer finance companies alike, I ended up borrowing the startup capital from a loan shark called 'Dragon Finance'...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(The repayment deadline is 3 months away... 12 weeks. If I fail, I'm seriously finished.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......Well, whatever. The girl coming today is my clinic's only hope.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "......Um, excuse me...?",
+      "voiceFile": "story_day1_001"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "Welcome!"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "......I saw your flyer... This is a massage clinic, right?",
+      "voiceFile": "story_day1_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yes, that's right. Come on in, don't worry."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "...Okay. Thank you.",
+      "voiceFile": "story_day1_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "So, what brings you here today? Do you have any concerns? Shoulders, back, anything bothering you?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Um... lately, my shoulders have been really stiff...",
+      "voiceFile": "story_day1_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Stiff shoulders... I see."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(Well, no wonder. This girl has quite large breasts... They must be heavy... heh.)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "I'd like to know more details, so first, could you put down your things and fill out this counseling sheet?"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "And may I have your name?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Yes. I'm Nana Tanaka.",
+      "voiceFile": "story_day1_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Let me see... areas of concern...",
+      "voiceFile": "story_day1_006",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(Wow! Up close, her breasts really are huge...! And her face is cute too... This is a jackpot, heh...)",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "......Um, excuse me. This... about my body and, o-orgasm experience... is this information really necessary...?",
+      "voiceFile": "story_day1_007",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Of course. To help you relax, it's not just about the body - understanding your sensory preferences is important too.",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I see... I... I've never really filled out something like this before...",
+      "voiceFile": "story_day1_008",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "It's okay. Just write honestly, whatever comes to mind.",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I finished writing... Is this okay?",
+      "voiceFile": "story_day1_009"
+    },
+    {
+      "character": "",
+      "expression": "blush_closemouth",
+      "text": "......",
+      "docImage": "counseling_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(Heh... a virgin... This should be fun in many ways.)",
+      "conditions": {
+        "route": "virgin"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(What, not a virgin... Well, if she's experienced, I can probably go a bit rougher without issues.)",
+      "conditions": {
+        "route": "experienced"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Thank you. ...Hmm, I see."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Okay then, just as a formality, could you also sign this 'Treatment Consent Form'?"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......",
+      "docImage": "consent_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Treatment consent form...?",
+      "voiceFile": "story_day1_010"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "Yeah, it's just a formality. Everyone signs it, nothing complicated."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Don't worry about the details, just sign your name and we're good!"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "J-just my name...? Okay...",
+      "voiceFile": "story_day1_011"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I'm done.",
+      "voiceFile": "story_day1_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Great, thank you. That helps a lot."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(Hehe... Now officially, I can do whatever I want without issues.)"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "(Desperately suppressing a smirk, he signs his own name in the therapist field.)",
+      "nameInput": true
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......"
+    },
+    {
+      "id": "choice_massage",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Now then, looking at your counseling sheet... yeah, your shoulders are quite tense. I can tell even through your clothes.",
+      "choices": [
+        {
+          "label": "Maybe it's your posture?",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "posture_path"
+        },
+        {
+          "label": "It might be because of your chest",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "breast_path"
+        },
+        {
+          "label": "Let me touch and check",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "posture_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I thought so... Is my posture bad...? I tend to lean forward during class...",
+      "voiceFile": "story_day1_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "That's not good.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "breast_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Huh... I-is that so... It's because of my chest...?",
+      "voiceFile": "story_day1_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yeah, it's possible. When they're this impressive, it naturally puts strain on your shoulders."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Impressive doesn't even cover it! They're bursting out! With these, of course her shoulders would hurt...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-impressive...",
+      "voiceFile": "story_day1_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hyah...! S-so sudden...! Ah...",
+      "voiceFile": "story_day1_016",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Sorry, did I startle you? But yeah, just as I thought. They're rock hard.",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(The warmth and softness directly in my palm...)",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Just pressing lightly like this is already improving circulation. Any strange pain?",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "N-no... It feels good...",
+      "voiceFile": "story_day1_017",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "Good.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Alright then, could you change into the special treatment wear?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Change clothes...?",
+      "voiceFile": "story_day1_018"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Yeah, it's special wear designed to enhance the relaxation effect. Everyone wears it, so don't worry."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "I-I see... Okay...",
+      "voiceFile": "story_day1_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "(W-why is there so little fabric...!? This is so... embarrassing...)",
+      "voiceFile": "story_day1_020",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(......But I can't refuse... I have to do my best...)",
+      "voiceFile": "story_day1_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-I've changed... Is this... okay...?",
+      "voiceFile": "story_day1_022",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Damn... the fabric coverage is way too small...!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yeah, it looks perfect on you."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Alright, let's begin the treatment."
+    }
+  ]
+}

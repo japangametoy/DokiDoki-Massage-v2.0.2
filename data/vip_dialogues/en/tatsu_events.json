@@ -1,0 +1,545 @@
+{
+  "half_repaid": {
+    "title": "50% Debt Repayment Celebration",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "Excuse me then...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Wha...!?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Your chest muscles are really tense.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "I need to massage them properly.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "H-Hey! Not there...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "This is part of the treatment. To improve lymph flow...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Lymph flow... has nothing to do with this!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "And...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Why do I need to be naked...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Well...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Direct skin contact is more effective.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "I'll stimulate your areola now.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "S-Stop! Not there...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Mmm♡",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee, you're surprisingly sensitive.",
+        "resetBubbles": true,
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I-Idiot! I'm not...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Now I'll stimulate your nipples.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nn♡ N-Not my nipples...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Why... does it feel so good...♡",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "Making circles with my fingers...",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aahh...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Gently, then intensely...",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kyaah...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Varying the rhythm is key.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I-If you do that...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I'll feel... weird...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "It's okay.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "It's a natural reaction to pleasure.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "That's... enough...!",
+        "tatsuImage": "nipple",
+        "resetBubbles": true
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "You should stop now...",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "Not yet.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I'll feel... weird...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "This is your reward, right?",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-This kind of reward... I didn't ask for...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "But your body is enjoying it.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh! There...! No...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Now, let's move lower...",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Wha...! That's... really not okay...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "But, the reward is...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-That's enough!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "The rest...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "After you pay it all off.",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "Eh...? Does that mean...?",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "(Like this guy could ever pay it all off...)",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "A-Anyway!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Make sure you pay back the rest!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Understood!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "I'll work hard!",
+        "tatsuImage": "default"
+      }
+    ]
+  },
+  "full_repaid": {
+    "title": "Full Debt Repayment Celebration",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "Okay, lie down on the bed.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Huh? What are you planning!",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "A special massage to celebrate paying off the debt.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "You said the rest would come",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "after full repayment, right?",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "D-Damn... a promise is a promise...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "I'm going to put it in now.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "W-Wait! I need to mentally prepare...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnh!",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "You're so wet, it went right in.",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "Were you looking forward to this?",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "N-No way...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "I'm going to move now.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnh♡ It's hitting deep...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah, ahh...! My breasts are bouncing...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "They're bouncing so much. You can see them yourself, right?",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "S-Shut up...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Your clit is rock hard too.",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "It feels good, doesn't it?",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "N-No... it's not like that...",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnaaah♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "If someone saw this...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Don't worry. We're closed today.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-That's not the point... Ah!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "When I grind deep inside...",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "There...! You're hitting my womb...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah, ahh...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I'm... gonna cum...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "Cum as hard as you want.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "No...! I can't...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "I'm going to cum inside.",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "N-Not inside...! You can't cum inside...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "It's okay. I'll take responsibility.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-That's not the point...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "No... I'm cumming...!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I'm cummiiing!!",
+        "tatsuImage": "ejaculation_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aaaahhh♡♡",
+        "tatsuImage": "ejaculation"
+      },
+      {
+        "character": "player",
+        "text": "I came... filled you up completely, Tatsu-nee.",
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Haa... haa...",
+        "resetBubbles": true,
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "You really... came inside...",
+        "resetBubbles": true,
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "It's so hot... inside...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "You looked so cute cumming with your breasts bouncing, Tatsu-nee.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "D-Don't call me... cute...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Damn... I didn't expect this...",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "H-Hey... don't ever get into debt again!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Yes! No more debt!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-But... well...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "You can... visit me sometimes...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Come back anytime for a womb massage.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I-Idiot! That's not what I meant...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "But your body feels refreshed, doesn't it?",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "........",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "...Well, it wasn't bad.",
+        "tatsuImage": "cum"
+      }
+    ]
+  }
+}
